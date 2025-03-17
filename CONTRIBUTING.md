@@ -56,6 +56,10 @@ Each component has its own language files in different formats:
 
 To reduce the workload of manual translation, we recommend using our AI translate tool [translate-cli](https://github.com/quailyquaily/translate-cli) to translate the content first.
 
+> [!NOTE]
+> 1. The `translate-cli` is a command-line tool that uses LLM to translate the content. It's not a web application, so you need to install it on your local machine.
+> 2. At the moment, the `translate-cli` only supports translating JSON files.
+
 Here is a quick command to translate the content of dashboard:
 
 ```bash
