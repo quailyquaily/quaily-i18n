@@ -1,0 +1,145 @@
+hero:
+  headline: 現代的でAIパワードなニュースレターサービス
+  tagline: "フォロワーとつながり、最高のクリエイティブ作品を資金調達するメンバーシップコミュニティを構築します。"
+  actions:
+    primary:
+      title: "執筆を始める"
+      url: "/dashboard/login"
+    secondary:
+      title: "探索する"
+      url: "/explore"
+
+finance:
+  subtitle: "クリエイティブ作品の資金調達を容易に"
+  title: "コンテンツクリエイターのための持続可能な収入を生み出します"
+  features:
+    title: "収益を得るまですべて無料"
+    items:
+      - "公開投稿"
+      - "ニュースレター送信"
+      - "有料投稿"
+      - "Quaily AI"
+      - "協力編集"
+      - "データ分析"
+      - "データエクスポート"
+      - "支払い方法"
+      - "高度なエディター"
+    hint: "収益を得た後、収益に対して10%の手数料とチャンネル取引手数料が請求されます。"
+  estimate:
+    title: "コミュニティの価値を見積もります"
+    subscriber: "購読者"
+    estimate_value: "年間*"
+    hint: " *この見積もりはQuailyの現在のデータに基づいており、変動する可能性があります。"
+
+features:
+  editor:
+    title: "あなたのエディター、あなたの旅"
+    desc: "最高の執筆体験は、最も快適なエディターを使用することです。"
+    link_text: "お好きなエディターで執筆"
+    link: "https://quaily.com/quaily-ja/p/write-with-favorite-editor-publish-on-quaily"
+  ai:
+    title: "AIによる強化"
+    desc: "AIパワーのアプローチで前例のない自由を解放し、知識と自己発見の旅に乗り出し、独自の輝きを増幅します。"
+    link_text: "Quaily AIを探索"
+    link: "https://docs.quaily.com/writer/ai.html"
+  channel:
+    title: "世界とつながる"
+    desc: "X、Telegram、Discord、LINE、Whatsapp、Slack、Wechat*とのシームレスな統合を提供します。"
+    hint: "* 一部のチャンネルは開発中です。"
+    link_text: "接続ガイド"
+    link: "https://quaily.com/quaily-ja/p/beyond-email-connect-your-community-with-discord-telegram-line"
+  math:
+    title: "美しい数式と図"
+    desc: "Quailyは科学的および工学的執筆に優れたサポートを提供します。投稿で数式と図を簡単に作成できます。"
+    link_text: "構文を確認"
+    link: "https://quaily.com/quaily-ja/p/extended-markdown-syntax#equation-formula"
+
+features_grid:
+  title: "派生サービスと機能"
+  subtitle: "すべての新しいアイデアの誕生をサポート"
+  items:
+    - title: "プレミアム投稿"
+      subtitle: "有料投稿を作成します。"
+    - title: "Markdown拡張"
+      subtitle: "投稿のための強力なMarkdown拡張。"
+      link: "https://quaily.com/quaily-ja/p/extended-markdown-syntax"
+    - title: "マルチリンガル"
+      subtitle: "一度書いて、複数の言語で公開します。"
+      link: "https://quaily.com/quaily-ja/p/cross-publish-multi-language-articles-different-channels"
+    - title: "自分のドメイン"
+      subtitle: "独自のドメインを使用してQuailyのサブドメインをカスタマイズします。"
+    - title: "共同執筆"
+      subtitle: "他のクリエイターと共同で執筆し、編集します。"
+    - title: "暗号通貨"
+      subtitle: "暗号通貨での支払いを受け入れます。"
+    - title: "CLI"
+      subtitle: "CLIで投稿のワークフローを自動化します。"
+      link: "https://quaily.com/quaily-ja/p/introducing-quail-cli-simplifying-your-workflow"
+    - title: "Bower"
+      subtitle: "フォロワーとあなたの考え、アイデア、知識を共有する場所。"
+    - title: "パック"
+      subtitle: "投稿をパックにまとめ、本として公開します。"
+      link: "https://quaily.com/quaily-ja/p/using-packs-to-bind-posts-into-books"
+    - title: "Atom Feed"
+      subtitle: "あなたの投稿をAtomフィードとして公開します。"
+    - title: "データ分析"
+      subtitle: "あなたの購読者のデータを分析します。"
+    - title: "データエクスポート"
+      subtitle: "いつでも投稿と購読者のデータをエクスポートします。"
+
+migration:
+  subtitle: "移行のお手伝い"
+  title: "購読者、コンテンツ、注文、支払い方法を移行します"
+  desc: "迅速でシームレスなセットアップ、優先サポート、購読者、コンテンツ、支払いの移行サービス。"
+  checklist:
+    - name: "substack"
+      title: "Substack"
+      icon: "substack.png"
+    - name: "wordpress"
+      title: "Wordpress"
+      icon: "wordpress.png"
+    - name: "wxp"
+      title: "微信公众号"
+      icon: "wxp.png"
+    - name: "patreon"
+      title: "Patreon"
+      icon: "patreon.png"
+    - name: "ghost"
+      title: "Ghost"
+      icon: "ghost.png"
+    - name: "medium"
+      title: "Medium"
+      icon: "medium.png"
+    - name: "buttondown"
+      title: "Buttondown"
+      icon: "buttondown.png"
+    - name: "memberful"
+      title: "Memberful"
+      icon: "memberful.png"
+    - name: "newspack"
+      title: "Newspack"
+      icon: "newspack.png"
+  actions:
+    primary:
+      title: "移行ガイド"
+      url: "https://docs.quaily.com/writer/migration.html"
+
+community:
+  title: "私たちは、いつも助けを惜しまないライター、読者、開発者の友好的なコミュニティを持っています。"
+  discord:
+    title: "Discordに参加"
+    online_prefix: "オンライン: "
+    url: "https://discord.gg/VRP27AhMKm"
+
+stat:
+  title: "あなたと一緒に成長し、まだ始まったばかりです。"
+  items:
+    - id: "users"
+      title: "フォロワー"
+    - id: "lists"
+      title: "クリエイター"
+    - id: "posts"
+      title: "投稿"
+
+badges:
+  title: "Check out our badges"

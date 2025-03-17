@@ -1,0 +1,146 @@
+hero:
+  headline: A modern, AI powered newsletter service
+  tagline: "Build a membership community that connects with your followers and funds your best creative work."
+  actions:
+    primary:
+      title: "Start Writing"
+      url: "/dashboard/login"
+    secondary:
+      title: "Explore"
+      url: "/explore"
+
+finance:
+  subtitle: "Finance your creative work with ease"
+  title: "Generate sustainable income for content creators"
+  features:
+    title: "All free until you start earning."
+    items:
+      - "Public Posts"
+      - "Send Newsletters"
+      - "Pay Posts"
+      - "Quaily AI"
+      - "Cooperative Edit"
+      - "Data Analayse"
+      - "Data Export"
+      - "Payment Methods"
+      - "Advance Editor"
+    hint: "10% commission plus channel transaction fees will be charged after earning revenue."
+  estimate:
+    title: "Estimate Your Community Value"
+    subscriber: "Subscribers"
+    estimate_value: "per year*"
+    hint: " *The estimate is based on current data from Quaily, it may be varied."
+
+features:
+  editor:
+    title: "Your Editor, Your Journey"
+    desc: "The best writing experience is using the editor you're most comfortable with, for example, Obsidian."
+    link_text: "Enjoy your Editors"
+    link: "https://quaily.com/blog/p/write-with-favorite-editor-and-publish-to-quaily"
+  ai:
+    title: "AI Empowered"
+    desc: "Unlock unprecedented liberty with our AI-powered approaches, embark on a journey of knowledge and self-discovery, and amplifies your unique brilliance."
+    link_text: "Explore Quaily AI"
+    link: "https://docs.quaily.com/writer/ai.html"
+  channel:
+    title: "Connect to the world"
+    desc: "Offering seamless integration with X, Telegram, Discord, LINE, Whatsapp, Slack, Wechat*."
+    hint: "* Some channels are still in development."
+    link_text: "Connect Guide"
+    link: "https://quaily.com/blog/p/beyond-email-connect-your-community-with-discord-telegram-line"
+  math:
+    title: "Beautiful Equations and Diagrams"
+    desc: "Quaily has excellent support for scientific and engineering writing. It's easy to create equations and diagrams in your posts."
+    link_text: "Check out the Syntax"
+    link: "https://quaily.com/blog/p/extended-markdown-syntax#equation-formula"
+
+features_grid:
+  title: "Derivative services and features"
+  subtitle: "Supporting the birth of every new idea"
+  items:
+    - title: "Premium Posts"
+      subtitle: "Monetize your content with premium posts."
+    - title: "Markdown Extensions"
+      subtitle: "Powerful markdown extensions for your posts."
+      link: "https://quaily.com/blog/p/extended-markdown-syntax"
+    - title: "Cross Publish"
+      subtitle: "Write once, publish in multiple languages to multiple channels."
+      link: "https://quaily.com/blog/p/cross-publish-multi-language-articles-different-channels"
+    - title: "Custom Domain"
+      subtitle: "Use your own domain name for your publication."
+    - title: "Cooperation"
+      subtitle: "Invite your friends to create together, and share the revenue."
+    - title: "Crypto Friendly"
+      subtitle: "Accept crypto payments from your followers."
+    - title: "CLI Publish"
+      subtitle: "Automate your publishing workflow with CLI."
+      link: "https://quaily.com/blog/p/introducing-quail-cli-streamline-your-newsletter-workflow"
+    - title: "Bower"
+      subtitle: "A place to share your thoughts, ideas, and knowledge with your followers."
+      link: "https://quaily.com/blog/p/quail-weekly-30"
+    - title: "Packs"
+      subtitle: "Collect your posts into a pack, and publish it as a book."
+      link: "https://quaily.com/blog/p/using-packs-to-bind-posts-into-books"
+    - title: "Atom Feed"
+      subtitle: "Native support for Atom feed, work with your favorite feed reader."
+    - title: "Analytics"
+      subtitle: "Understand your audience with detailed data analytics."
+    - title: "Data Export"
+      subtitle: "Export your posts and subscribers data anytime, no more lock-in."
+
+migration:
+  subtitle: "Assistance with migration"
+  title: "Migrate subscribers, content, orders, and payment methods"
+  desc: "Fast and seamless setup, priority support, and migration services for subscribers, content, and payments."
+  checklist:
+    - name: "substack"
+      title: "Substack"
+      icon: "substack.png"
+    - name: "wordpress"
+      title: "Wordpress"
+      icon: "wordpress.png"
+    - name: "wxp"
+      title: "微信公众号"
+      icon: "wxp.png"
+    - name: "patreon"
+      title: "Patreon"
+      icon: "patreon.png"
+    - name: "ghost"
+      title: "Ghost"
+      icon: "ghost.png"
+    - name: "medium"
+      title: "Medium"
+      icon: "medium.png"
+    - name: "buttondown"
+      title: "Buttondown"
+      icon: "buttondown.png"
+    - name: "memberful"
+      title: "Memberful"
+      icon: "memberful.png"
+    - name: "newspack"
+      title: "Newspack"
+      icon: "newspack.png"
+  actions:
+    primary:
+      title: "Migration Guide"
+      url: "https://docs.quaily.com/writer/migration.html"
+
+community:
+  title: "We have a friendly community of creators, readers, and developers who are always willing to help."
+  discord:
+    title: "Join our Discord"
+    online_prefix: "Online: "
+    url: "https://discord.gg/VRP27AhMKm"
+
+stat:
+  title: "We're growing with you,<br/> and we're just getting started."
+  items:
+    - id: "users"
+      title: "Subscribers"
+    - id: "lists"
+      title: "Creators"
+    - id: "posts"
+      title: "Posts"
+
+badges:
+  title: "Check out our badges"

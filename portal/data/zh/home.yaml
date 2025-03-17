@@ -1,0 +1,145 @@
+hero:
+  headline: "AI 助力的现代化 Newsletter 服务"
+  tagline: "轻松建立会员社区，与订阅者保持联系，为创作筹集资金。"
+  actions:
+    primary:
+      title: "开始创作"
+      url: "/dashboard/login"
+    secondary:
+      title: "探索社区"
+      url: "/explore"
+
+finance:
+  subtitle: "无负担的收费方式"
+  title: "为内容创作者创造可持续的收入"
+  features:
+    title: "盈利前所有功能与服务完全免费使用。"
+    items:
+      - "博客文章"
+      - "发送新闻邮件"
+      - "付费文章"
+      - "Quaily AI"
+      - "协作模式创作"
+      - "数据导出与分析"
+      - "丰富的支付渠道"
+      - "支持 Feed"
+      - "高级编辑器"
+    hint: "盈利后收取 10% 的佣金 + 渠道交易费用。"
+  estimate:
+    title: "估算你的社区价值"
+    subscriber: "订阅者"
+    estimate_value: "每年*"
+    hint: "*该估算基于Quail当前数据，可能会有变化。"
+
+features:
+  editor:
+    title: "自由选择编辑器"
+    desc: "最佳的写作体验从舒适的编辑器开始。Quaily支持在Obsidian、VSCode和Vim等编辑器中撰写内容。"
+    link_text: "配置向导"
+    link: "https://quaily.com/quail-zh/p/write-with-favorite-editor-and-publish-to-quaily"
+  ai:
+    title: "与AI共同创作"
+    desc: "用Quaily AI解锁前所未有的创作自由，开启知识与自我发现的旅程，放大你的独特才华。"
+    link_text: "探索 Quaily AI"
+    link: "https://docs.quaily.com/writer/ai.html"
+  channel:
+    title: "连接到你的每一个社区"
+    desc: "支持Telegram、Discord、LINE、Whatsapp、Slack、Wechat*等应用的无缝集成。可自由在各种渠道上连接、分享和参与内容。"
+    hint: "*部分渠道仍在开发中。"
+    link_text: "如何连接"
+    link: "https://quaily.com/quail-zh/p/beyond-email-connect-your-community-with-discord-telegram-line"
+  math:
+    title: "优雅的公式和图示"
+    desc: "Quaily对科学和工程写作有很好的支持，很容易就在文章中创建公式和各类图示。"
+    link_text: "看看效果"
+    link: "https://quaily.com/quail-zh/p/extended-markdown-syntax#equation-formula"
+
+features_grid:
+  title: "更多衍生服务与功能"
+  subtitle: "支持每一个新想法的诞生"
+  items:
+    - title: "收费文章"
+      subtitle: "用发文章来赚钱"
+    - title: "Markdown 扩展"
+      subtitle: "为你的文章提供强大的Markdown扩展"
+      link: "https://quaily.com/quail-zh/p/extended-markdown-syntax"
+    - title: "跨频道发布"
+      subtitle: "一次写作，翻译成多语言发布到多个频道"
+      link: "https://quaily.com/quail-zh/p/cross-publish-multi-language-articles-different-channels"
+    - title: "自定义域名"
+      subtitle: "使用自己的域名访问你的页面"
+    - title: "协作模式"
+      subtitle: "邀请朋友一起创作"
+    - title: "Crypto友好"
+      subtitle: "支持加密货币支付"
+    - title: "CLI 工具"
+      subtitle: "使用CLI自动化发布"
+      link: "https://quaily.com/quail-zh/p/introducing-quail-cli-simplifying-your-workflow"
+    - title: "闲谈"
+      subtitle: "分享你的想法、观点和知识"
+    - title: "文集"
+      subtitle: "将文章收集成文集，出版成书"
+      link: "https://quaily.com/quail-zh/p/using-packs-to-bind-posts-into-books"
+    - title: "原生支持 Atom Feed"
+      subtitle: "与你喜爱的阅读器一起工作"
+    - title: "数据分析"
+      subtitle: "通过数据分析了解你的订阅者"
+    - title: "数据导出"
+      subtitle: "随时不受限制导出文章和数据"
+
+migration:
+  subtitle: "迁移到Quaily，很轻松"
+  title: "轻松迁移订阅者、内容、订单和付款方式"
+  desc: "从其他平台迁移至Quaily时，能享受提供快速、无缝的设置、优先支持以及订阅者、内容和付款的全面迁移服务。"
+  checklist:
+    - name: "substack"
+      title: "Substack"
+      icon: "substack.png"
+    - name: "wordpress"
+      title: "Wordpress"
+      icon: "wordpress.png"
+    - name: "wxp"
+      title: "微信公众号"
+      icon: "wxp.png"
+    - name: "patreon"
+      title: "Patreon"
+      icon: "patreon.png"
+    - name: "ghost"
+      title: "Ghost"
+      icon: "ghost.png"
+    - name: "medium"
+      title: "Medium"
+      icon: "medium.png"
+    - name: "buttondown"
+      title: "Buttondown"
+      icon: "buttondown.png"
+    - name: "memberful"
+      title: "Memberful"
+      icon: "memberful.png"
+    - name: "newspack"
+      title: "Newspack"
+      icon: "newspack.png"
+  actions:
+    primary:
+      title: "迁移指南"
+      url: "https://docs.quaily.com/writer/migration.html"
+
+community:
+  title: "我们有个汇聚了作家、读者和开发者的温馨社区，所有问题都能在这里得到帮助。"
+  discord:
+    title: "加入Discord"
+    online_prefix: "当前在线: "
+    url: "https://discord.gg/VRP27AhMKm"
+
+stat:
+  title: "与你一起成长，一切才刚刚开始。"
+  items:
+    - id: "users"
+      title: "订阅者"
+    - id: "lists"
+      title: "创作者"
+    - id: "posts"
+      title: "文章"
+
+badges:
+  title: "Check out our badges"
