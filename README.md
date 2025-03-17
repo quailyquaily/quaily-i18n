@@ -4,6 +4,7 @@ This is the repository for the Quaily's language files.
 
 ## Structure
 
+```
 - glossary.json: the glossary of terms used in the quaily's products.
 - spa: the language files for the quaily spa project.
   - lang:
@@ -17,6 +18,7 @@ This is the repository for the Quaily's language files.
   - locales:
     - en.toml: the source language file, english.
     - ...: the target language files.
+```
 
 ## Glossary
 
