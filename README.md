@@ -14,6 +14,10 @@ This is the repository for the Quaily's language files.
   - lang:
     - en.json: the source language file, english.
     - ...: the target language files.
+- obsidian-quaily: the language files for the quaily obsidian plugin.
+  - lang:
+    - en.json: the source language file, english.
+    - ...: the target language files.
 - service: the language files for the quaily service.
   - locales:
     - en.toml: the source language file, english.
