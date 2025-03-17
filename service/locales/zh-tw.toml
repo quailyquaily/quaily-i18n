@@ -1,0 +1,125 @@
+[EmailSenderName]
+other = "{{.SiteName}}"
+
+[LoginEmailSubject]
+other = "登录到 {{.SiteName}}"
+
+[LoginEmailBody]
+other = "你正在登入 {{.SiteName}}。 如果這不是你的操作，請聯絡我們。"
+
+[ReplaceEmailEmailSubject]
+other = "更改 {{.SiteName}} 登录邮箱"
+
+[ReplaceEmailEmailBody]
+other = "你正在更改 {{.SiteName}} 帳號的郵箱。如果這不是你的操作，請聯絡我們。"
+
+[GreetingEmailSubject]
+other = "你好呀！感谢你訂閱我的郵件組"
+
+[GreetingEmailBody]
+other = "你好呀！感謝你訂閱我的郵件組。 <br />我會和你分享我的最新想法。 <br />希望你喜歡。"
+
+[GreetingEmailAction]
+other = "看歷史文章"
+
+[PostEmailActionLabel]
+other = "閱讀原文"
+
+[PostEmailActionLabelPurchase]
+other = "升級然後閱讀"
+
+[PostEmailPurchaseHint]
+other = "剩餘 {{.Percent}}% 僅限付費會員閱讀。升級後閱讀全文。"
+
+[PremiumSubscriptionNotificationEmailSubject]
+other = "您有新付費訂閱會員，訂閱了 {{.Title}}"
+
+[PremiumSubscriptionNotificationEmailBody]
+other = "<div>訂閱者：{{.Email}}</div><div>過期日：{{.Expiry}}</div>"
+
+[PremiumSubscriptionNotificationEmailAction]
+other = "前往後台"
+
+[SubscriptionExpiredNotificationEmailSubject]
+other = "您的付費訂閱會員已過期"
+
+[SubscriptionExpiredNotificationEmailBody]
+other = "<div>郵件組：{{.Title}}</div><div>過期日：{{.Expiry}}</div>"
+
+[SubscriptionExpiredNotificationEmailAction]
+other = "續訂"
+
+[ExportDataEmailSubject]
+other = "您的資料已準備好了"
+
+[ExportDataEmailAction]
+other = "下載資料"
+
+[ExportDataEmailBody]
+other = "您的資料已準備好了。您可以立即下載。 <br />請注意，下載鏈接將在 24 小時後失效。"
+
+[ExploreCategoryLabel]
+other = "分類"
+
+[ExploreCategoryLabelTrending]
+other = "熱門"
+
+[ExploreCategoryLabelPremium]
+other = "熱門會員內容"
+
+[ExploreCategoryLabelFree]
+other = "熱門公开內容"
+
+[ExploreEmtpyHint]
+other = "沒有文章"
+
+[ExploreLoginLabel]
+other = "成為第一個"
+
+[ReportEmailSubject]
+other = "{{.Title}}的每日報告"
+
+[ReportEmailMetricTitle]
+other = "每日統計"
+
+[ReportEmailMetricChanges]
+other = "變化"
+
+[ReportEmailMetricPrevious]
+other = "昨日"
+
+[ReportEmailMetricCurrent]
+other = "今日"
+
+[ReportEmailMetricPosts]
+other = "文章数"
+
+[ReportEmailMetricPremiumPosts]
+other = "付費文章数"
+
+[ReportEmailMetricSubscribers]
+other = "訂閱者"
+
+[ReportEmailMetricPremiumSubscribers]
+other = "付費訂閱者"
+
+[ReportEmailMetricReads]
+other = "閱讀数"
+
+[ReportEmailMetricViews]
+other = "瀏覽数"
+
+[ReportEmailNewMembersTitle]
+other = "新訂閱會員"
+
+[ReportEmailExpiringMembersTitle]
+other = "即將過期的付費會員"
+
+[ReportEmailLabelName]
+other = "名字"
+
+[ReportEmailLabelEmail]
+other = "郵箱"
+
+[ReportEmailLabelExpiry]
+other = "過期日"

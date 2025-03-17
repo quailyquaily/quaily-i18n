@@ -1,0 +1,125 @@
+[EmailSenderName]
+other = "{{.SiteName}}"
+
+[LoginEmailSubject]
+other = "{{.SiteName}}へのログイン"
+
+[LoginEmailBody]
+other = "{{.SiteName}} にログインしています。自分の操作でない場合は、お問い合わせください。"
+
+[ReplaceEmailEmailSubject]
+other = " {{.SiteName}} のメールアドレスを変更しています"
+
+[ReplaceEmailEmailBody]
+other = "{{.SiteName}} アカウントのメールアドレスを変更しています。自分の操作でない場合は、お問い合わせください。"
+
+[GreetingEmailSubject]
+other = "メールグループへのご登録ありがとうございます"
+
+[GreetingEmailBody]
+other = "こんにちは！この度はメールグループへのご登録、誠にありがとうございます。 <br />最新情報をお届けします。 <br />ぜひお楽しみください！"
+
+[GreetingEmailAction]
+other = "記事を見る"
+
+[PostEmailActionLabel]
+other = "全文を読む"
+
+[PostEmailActionLabelPurchase]
+other = "アップグレードして読む"
+
+[PostEmailPurchaseHint]
+other = "残り{{.Percent}}%のコンテンツは有料会員のみ閲覧可能です。アップグレードして全文をお読みください。"
+
+[PremiumSubscriptionNotificationEmailSubject]
+other = "新しい有料サブスクリプションがあります。{{.Title}}を購読しました"
+
+[PremiumSubscriptionNotificationEmailBody]
+other = "<div>購読者：{{.Email}}</div><div>有効期限：{{.Expiry}}</div>"
+
+[PremiumSubscriptionNotificationEmailAction]
+other = "ダッシュボードに移動"
+
+[SubscriptionExpiredNotificationEmailSubject]
+other = "{{.Title}}の有料サブスクリプションが期限切れになりました"
+
+[SubscriptionExpiredNotificationEmailBody]
+other = "<div>レスト：{{.Title}}</div><div>有効期限：{{.Expiry}}</div>"
+
+[SubscriptionExpiredNotificationEmailAction]
+other = "有料会員になる"
+
+[ExportDataEmailSubject]
+other = "データのエクスポートが完了しました"
+
+[ExportDataEmailAction]
+other = "ダウンロードする"
+
+[ExportDataEmailBody]
+other = "データのエクスポートが完了しました。ダウンロードできます。 <br />ダウンロードリンクは24時間で無効になります。"
+
+[ExploreCategoryLabel]
+other = "分類"
+
+[ExploreCategoryLabelTrending]
+other = "トレンド"
+
+[ExploreCategoryLabelPremium]
+other = "トップ有料"
+
+[ExploreCategoryLabelFree]
+other = "トップ無料"
+
+[ExploreEmtpyHint]
+other = "まだ記事がありません"
+
+[ExploreLoginLabel]
+other = "最初になるために"
+
+[ReportEmailSubject]
+other = "{{.Title}}の日報"
+
+[ReportEmailMetricTitle]
+other = "日次統計"
+
+[ReportEmailMetricChanges]
+other = "変化"
+
+[ReportEmailMetricPrevious]
+other = "前日"
+
+[ReportEmailMetricCurrent]
+other = "今日"
+
+[ReportEmailMetricPosts]
+other = "記事数"
+
+[ReportEmailMetricPremiumPosts]
+other = "有料記事数"
+
+[ReportEmailMetricSubscribers]
+other = "購読者"
+
+[ReportEmailMetricPremiumSubscribers]
+other = "有料購読者"
+
+[ReportEmailMetricReads]
+other = "閲覧数"
+
+[ReportEmailMetricViews]
+other = "閲覧数"
+
+[ReportEmailNewMembersTitle]
+other = "新規メンバー"
+
+[ReportEmailExpiringMembersTitle]
+other = "期限切れの有料メンバー"
+
+[ReportEmailLabelName]
+other = "名前"
+
+[ReportEmailLabelEmail]
+other = "メール"
+
+[ReportEmailLabelExpiry]
+other = "期限"

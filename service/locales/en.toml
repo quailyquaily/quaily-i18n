@@ -1,0 +1,125 @@
+[EmailSenderName]
+other = "{{.SiteName}}"
+
+[LoginEmailSubject]
+other = "Login to {{.SiteName}}"
+
+[LoginEmailBody]
+other = "You are logging in {{.SiteName}}. If it is not your own operation, please contact us."
+
+[ReplaceEmailEmailSubject]
+other = "You are replacing Email address of {{.SiteName}}"
+
+[ReplaceEmailEmailBody]
+other = "You are replacing Email address of {{.SiteName}}. If it is not your own operation, please contact us."
+
+[GreetingEmailSubject]
+other = "Thank you for subscribing!"
+
+[GreetingEmailBody]
+other = "Hello! Thank you for subscribing to my newsletter. <br />I will share my latest thoughts and ideas with you. <br />I hope you enjoy it."
+
+[GreetingEmailAction]
+other = "View Latest Posts"
+
+[PostEmailActionLabel]
+other = "Read Original"
+
+[PostEmailActionLabelPurchase]
+other = "Upgrade and Read"
+
+[PostEmailPurchaseHint]
+other = "The remaining {{.Percent}}% is for Premium Members only. Upgrade to read the full post."
+
+[PremiumSubscriptionNotificationEmailSubject]
+other = "New Premium Subscriber to {{.Title}}"
+
+[PremiumSubscriptionNotificationEmailBody]
+other = "<div>Subscriber: {{.Email}}</div><div>Expiry: {{.Expiry}}</div>"
+
+[PremiumSubscriptionNotificationEmailAction]
+other = "View Dashboard"
+
+[SubscriptionExpiredNotificationEmailSubject]
+other = "Your Premium Subscription to {{.Title}} is Expired"
+
+[SubscriptionExpiredNotificationEmailBody]
+other = "<div>Channel: {{.Title}}</div><div>Expiry: {{.Expiry}}</div>"
+
+[SubscriptionExpiredNotificationEmailAction]
+other = "Renew Subscription"
+
+[ExportDataEmailSubject]
+other = "Your Channel Data is Ready"
+
+[ExportDataEmailAction]
+other = "Download Data"
+
+[ExportDataEmailBody]
+other = "Your data is ready. You can download it now. <br />Please note that the download link will expire in 24 hours."
+
+[ExploreCategoryLabel]
+other = "Category"
+
+[ExploreCategoryLabelTrending]
+other = "Trending"
+
+[ExploreCategoryLabelPremium]
+other = "Top Premium"
+
+[ExploreCategoryLabelFree]
+other = "Top Free"
+
+[ExploreEmtpyHint]
+other = "No post yet"
+
+[ExploreLoginLabel]
+other = "To be the first one"
+
+[ReportEmailSubject]
+other = "Daily Report for {{.Title}}"
+
+[ReportEmailMetricTitle]
+other = "Daily Stat"
+
+[ReportEmailMetricChanges]
+other = "Changes"
+
+[ReportEmailMetricPrevious]
+other = "Previous"
+
+[ReportEmailMetricCurrent]
+other = "Current"
+
+[ReportEmailMetricPosts]
+other = "Posts"
+
+[ReportEmailMetricPremiumPosts]
+other = "Premium Posts"
+
+[ReportEmailMetricSubscribers]
+other = "Subscribers"
+
+[ReportEmailMetricPremiumSubscribers]
+other = "Premium Subscribers"
+
+[ReportEmailMetricReads]
+other = "Reads"
+
+[ReportEmailMetricViews]
+other = "Views"
+
+[ReportEmailNewMembersTitle]
+other = "New Members"
+
+[ReportEmailExpiringMembersTitle]
+other = "Premium Members Expiring Soon"
+
+[ReportEmailLabelName]
+other = "Name"
+
+[ReportEmailLabelEmail]
+other = "Email"
+
+[ReportEmailLabelExpiry]
+other = "Expiry"

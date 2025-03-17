@@ -1,0 +1,37 @@
+{
+  "post": {
+    "ja": "記事",
+    "zh": "文章",
+    "zh-tw": "文章"
+  },
+  "posts": {
+    "ja": "記事",
+    "zh": "文章",
+    "zh-tw": "文章"
+  },
+  "Quaily": {
+    "ja": "Quaily",
+    "zh": "Quaily",
+    "zh-tw": "Quaily"
+  },
+  "channel": {
+    "ja": "チャネル",
+    "zh": "频道",
+    "zh-tw": "頻道"
+  },
+  "blockchain": {
+    "ja": "ブロックチェーン",
+    "zh": "区块链",
+    "zh-tw": "區塊鏈"
+  },
+  "cryptocurrency": {
+    "ja": "仮想通貨",
+    "zh": "加密货币",
+    "zh-tw": "加密货币"
+  },
+  "channels": {
+    "ja": "チャネル",
+    "zh": "频道",
+    "zh-tw": "頻道"
+  }
+}
