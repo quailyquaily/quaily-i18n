@@ -2,13 +2,13 @@
 other = "{{.SiteName}}"
 
 [LoginEmailSubject]
-other = "登录到 {{.SiteName}}"
+other = "登入到 {{.SiteName}}"
 
 [LoginEmailBody]
 other = "你正在登入 {{.SiteName}}。 如果這不是你的操作，請聯絡我們。"
 
 [ReplaceEmailEmailSubject]
-other = "更改 {{.SiteName}} 登录邮箱"
+other = "更改 {{.SiteName}} 登入邮箱"
 
 [ReplaceEmailEmailBody]
 other = "你正在更改 {{.SiteName}} 帳號的郵箱。如果這不是你的操作，請聯絡我們。"
@@ -35,7 +35,7 @@ other = "剩餘 {{.Percent}}% 僅限付費會員閱讀。升級後閱讀全文�
 other = "您有新付費訂閱會員，訂閱了 {{.Title}}"
 
 [PremiumSubscriptionNotificationEmailBody]
-other = "<div>訂閱者：{{.Email}}</div><div>過期日：{{.Expiry}}</div>"
+other = "<div>訂閱者：{{.Email}}</div><div>到期日：{{.Expiry}}</div>"
 
 [PremiumSubscriptionNotificationEmailAction]
 other = "前往後台"
@@ -44,7 +44,7 @@ other = "前往後台"
 other = "您的付費訂閱會員已過期"
 
 [SubscriptionExpiredNotificationEmailBody]
-other = "<div>郵件組：{{.Title}}</div><div>過期日：{{.Expiry}}</div>"
+other = "<div>郵件組：{{.Title}}</div><div>到期日：{{.Expiry}}</div>"
 
 [SubscriptionExpiredNotificationEmailAction]
 other = "續訂"
@@ -68,7 +68,7 @@ other = "熱門"
 other = "熱門會員內容"
 
 [ExploreCategoryLabelFree]
-other = "熱門公开內容"
+other = "熱門公開內容"
 
 [ExploreEmtpyHint]
 other = "沒有文章"
@@ -92,10 +92,10 @@ other = "昨日"
 other = "今日"
 
 [ReportEmailMetricPosts]
-other = "文章数"
+other = "文章數"
 
 [ReportEmailMetricPremiumPosts]
-other = "付費文章数"
+other = "付費文章數"
 
 [ReportEmailMetricSubscribers]
 other = "訂閱者"
@@ -104,16 +104,16 @@ other = "訂閱者"
 other = "付費訂閱者"
 
 [ReportEmailMetricReads]
-other = "閱讀数"
+other = "閱讀數"
 
 [ReportEmailMetricViews]
-other = "瀏覽数"
+other = "瀏覽數"
 
 [ReportEmailNewMembersTitle]
 other = "新訂閱會員"
 
 [ReportEmailExpiringMembersTitle]
-other = "即將過期的付費會員"
+other = "即將到期的付費會員"
 
 [ReportEmailLabelName]
 other = "名字"
@@ -122,4 +122,4 @@ other = "名字"
 other = "郵箱"
 
 [ReportEmailLabelExpiry]
-other = "過期日"
+other = "到期日"
