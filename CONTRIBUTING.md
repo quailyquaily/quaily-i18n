@@ -56,10 +56,17 @@ Each component has its own language files in different formats:
 
 To reduce the workload of manual translation, we recommend using our AI translate tool [translate-cli](https://github.com/quailyquaily/translate-cli) to translate the content first.
 
-Please refer to the [translate-cli README](https://github.com/quailyquaily/translate-cli/blob/main/README.md) for the usage.
+Here is a quick command to translate the content of dashboard:
+
+```bash
+translate-cli translate -s dashboard/lang/en.json -d dashboard/lang -g glossary.json --batch=10
+```
+
+For more details, please refer to the [translate-cli README](https://github.com/quailyquaily/translate-cli/blob/main/README.md).
 
 ### Translation Guidelines
 
+- Start from the English source file, add new messages to it first.
 - Ensure translations are accurate and convey the same meaning as the English version
 - Maintain consistent terminology throughout the translations
 - Respect cultural nuances and adapt content appropriately
