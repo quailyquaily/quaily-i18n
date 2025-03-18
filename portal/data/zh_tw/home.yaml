@@ -1,6 +1,6 @@
 hero:
   headline: "AI 助力的現代化 Newsletter 服務"
-  tagline: "輕鬆建立會員社區，與你的訂閱者保持連接，為你的創作籌集資金。"
+  tagline: "輕鬆建立會員社區，與你的訂閱者保持連繫，為你的創作籌集資金。"
   actions:
     primary:
       title: "開始創作"
@@ -13,14 +13,14 @@ finance:
   subtitle: "無負擔的收費方式"
   title: "為內容創作者產生可持續的收入"
   features:
-    title: "在盈利之前所有功能与服務完全免費使用。"
+    title: "在盈利之前所有功能與服務完全免費使用。"
     items:
-      - "博客文章"
-      - "發送新聞邮件"
+      - "部落格文章"
+      - "發送新聞郵件"
       - "付費文章"
       - "Quaily AI"
       - "合作模式創作"
-      - "數據導出與分析"
+      - "資料匯出與分析"
       - "豐富的支付渠道"
       - "支持 Feed"
       - "高級編輯器"
@@ -29,13 +29,13 @@ finance:
     title: "估算你的社區價值"
     subscriber: "訂閱者"
     estimate_value: "每年*"
-    hint: " *該估算基于 Quail 當前數據，可能會有變化。"
+    hint: " *該估算基于 Quaily 當前資料，可能會有變化。"
 
 features:
   editor:
     title: "自由選擇編輯器"
     desc: "最佳的寫作體驗從舒適的編輯器開始。Quaily 支持在 Obsidian、VSCode 和 Vim 等編輯器中撰寫內容。"
-    link_text: "配置向導"
+    link_text: "配置嚮導"
     link: "https://quaily.com/quail-zh/p/write-with-favorite-editor-and-publish-to-quaily"
   ai:
     title: "與 AI 共同創作"
@@ -43,9 +43,9 @@ features:
     link_text: "探索 Quaily AI"
     link: "https://docs.quaily.com/writer/ai.html"
   channel:
-    title: "連接到你每一个社區"
-    desc: "支持 Telegram, Discord, LINE, Whatsapp, Slack, Wechat* 等應用的無縫集成。可自由在各種渠道上連接、分享和參與內容。"
-    hint: "* 部分渠道仍在開發中。"
+    title: "連接到你每一個社區"
+    desc: "支持 Telegram, Discord, LINE, Whatsapp, Slack, Wechat* 等應用的無縫整合。可自由在各種管道上連接、分享和參與內容。"
+    hint: "* 部分管道仍在開發中。"
     link_text: "如何連接"
     link: "https://quaily.com/quail-zh/p/beyond-email-connect-your-community-with-discord-telegram-line"
   math:
@@ -56,36 +56,36 @@ features:
 
 features_grid:
   title: "更多衍生服務與功能"
-  subtitle: "支持每一个新想法的誕生"
+  subtitle: "支持每一個新想法的誕生"
   items:
     - title: "付費文章"
       subtitle: "用發文章來賺錢"
     - title: "Markdown 擴展"
       subtitle: "為你的文章提供強大的 Markdown 擴展"
       link: "https://quaily.com/quail-zh/p/extended-markdown-syntax"
-    - title: "跨频道發布"
-      subtitle: "一次寫作，翻譯成多語言發布到多個頻道"
+    - title: "跨频道發佈"
+      subtitle: "一次寫作，翻譯成多語言發佈到多個頻道"
       link: "https://quaily.com/quail-zh/p/cross-publish-multi-language-articles-different-channels"
-    - title: "自定義域名"
+    - title: "自訂域名"
       subtitle: "使用自己的域名訪問你的頁面"
     - title: "合作模式"
       subtitle: "邀請朋友一起創作"
     - title: "Crypto 友好"
       subtitle: "支持加密貨幣支付"
     - title: "CLI 工具"
-      subtitle: "使用 CLI 自動化發布"
+      subtitle: "使用 CLI 自動化發佈"
       link: "https://quaily.com/quail-zh/p/introducing-quail-cli-simplifying-your-workflow"
-    - title: "閑談"
+    - title: "閒談"
       subtitle: "分享你的想法、觀點和知識"
     - title: "文集"
       subtitle: "將文章收集成文集，出版成書"
       link: "https://quaily.com/quail-zh/p/using-packs-to-bind-posts-into-books"
     - title: "原生支持 Atom Feed"
       subtitle: "與你喜愛的閱讀器一起工作"
-    - title: "數據分析"
-      subtitle: "通過數據分析了解你的訂閱者"
-    - title: "數據導出"
-      subtitle: "隨時不受限制導出文章和數據"
+    - title: "資料分析"
+      subtitle: "通過資料分析了解你的訂閱者"
+    - title: "資料匯出"
+      subtitle: "隨時不受限制匯出文章和資料"
 
 migration:
   subtitle: "遷移到 Quaily，很輕鬆"
@@ -99,7 +99,7 @@ migration:
       title: "Wordpress"
       icon: "wordpress.png"
     - name: "wxp"
-      title: "微信公众号"
+      title: "微信公眾号"
       icon: "wxp.png"
     - name: "patreon"
       title: "Patreon"
@@ -128,18 +128,18 @@ community:
   title: "我們有個匯聚了作家、讀者和開發者的溫馨社區，所有問題都能在這裡得到幫助。"
   discord:
     title: "加入 Discord"
-    online_prefix: "當前在線: "
+    online_prefix: "線上人數: "
     url: "https://discord.gg/VRP27AhMKm"
 
 stat:
   title: "與你一起成長，一切才剛開始。"
   items:
     - id: "users"
-      title: "订阅者"
+      title: "訂閱者"
     - id: "lists"
-      title: "创作者"
+      title: "創作者"
     - id: "posts"
       title: "文章"
 
 badges:
-  title: "Check out our badges"
+  title: "檢視我們的徽章"
