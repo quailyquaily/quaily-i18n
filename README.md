@@ -6,7 +6,7 @@ This is the repository for the Quaily's language files.
 
 ```
 - glossary.json: the glossary of terms used in the quaily's products.
-- spa/: the language files for the quaily spa project.
+- spa/: the language files for the quaily spa project, used in the quaily spa app.
   - lang/:
     - en.json: the source language file, english.
     - ...: the target language files.
@@ -18,7 +18,11 @@ This is the repository for the Quaily's language files.
   - lang/:
     - en.json: the source language file, english.
     - ...: the target language files.
-- service/: the language files for the quaily service.
+- generator/: the language files for the quaily generator, used in post, channel, widget pages
+  - lang/:
+    - en.json: the source language file, english.
+    - ...: the target language files.
+- service/: the language files for the quaily service, used in email templates.
   - locales/:
     - en.toml: the source language file, english.
     - ...: the target language files.
