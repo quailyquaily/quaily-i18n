@@ -395,7 +395,7 @@
   "list.danger_settings.delete_list": "删除频道",
   "list.danger_settings.delete_list.desc": "一旦你删除频道，就无法恢复。请务必确认。",
   "list.danger_settings.delete_list_dialog.confirm_label": "要确认，请在下面的框中输入“{list}”。",
-  "list.danger_settings.delete_list_dialog.delete": "我明白后果，删除",
+  "list.danger_settings.delete_list_dialog.delete": "我明白，删除",
   "list.danger_settings.delete_list_dialog.others": "我明白与该频道相关的所有其他事物将被删除。",
   "list.danger_settings.delete_list_dialog.posts": "我明白所有文章将被删除。",
   "list.danger_settings.delete_list_dialog.result": "这将永久删除{list}的所有文章、bower更新和其他内容。{list}的所有订阅者和合作者将被移除。",

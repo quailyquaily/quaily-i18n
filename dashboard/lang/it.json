@@ -395,7 +395,7 @@
   "list.danger_settings.delete_list": "Elimina canale",
   "list.danger_settings.delete_list.desc": "Una volta eliminato un canale, non c'è modo di tornare indietro. Per favore, assicurati.",
   "list.danger_settings.delete_list_dialog.confirm_label": "Per confermare, digita \"{list}\" nella casella sottostante.",
-  "list.danger_settings.delete_list_dialog.delete": "Capisco le conseguenze, cancellalo",
+  "list.danger_settings.delete_list_dialog.delete": "Conferma ed elimina",
   "list.danger_settings.delete_list_dialog.others": "Capisco che tutte le altre cose relative a questo canale saranno cancellate.",
   "list.danger_settings.delete_list_dialog.posts": "Capisco che tutti i post verranno cancellati.",
   "list.danger_settings.delete_list_dialog.result": "Questo eliminerà definitivamente tutti i post, gli aggiornamenti di bower e altri contenuti di {elenco}. Tutti gli iscritti e collaboratori di {elenco} saranno rimossi.",

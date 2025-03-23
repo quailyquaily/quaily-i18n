@@ -439,7 +439,7 @@
   "list.danger_settings.delete_list": "Delete Channel",
   "list.danger_settings.delete_list.desc": "Once you delete a channel, there is no going back. Please be certain.",
   "list.danger_settings.delete_list_dialog.confirm_label": " To confirm, type \"{list}\" in the box below.",
-  "list.danger_settings.delete_list_dialog.delete": "I understand the consequences, delete it.",
+  "list.danger_settings.delete_list_dialog.delete": "Confirm and delete",
   "list.danger_settings.delete_list_dialog.result": "This will permanently delete all posts, bower updates, and other content of {list}. All subscribers and cooperators of {list} will be removed.",
   "list.danger_settings.delete_list_dialog.subs": "I understand all subscribers will be deleted",
   "list.danger_settings.delete_list_dialog.posts": "I understand all posts will be deleted",

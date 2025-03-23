@@ -395,7 +395,7 @@
   "list.danger_settings.delete_list": "刪除頻道",
   "list.danger_settings.delete_list.desc": "一旦刪除頻道，就無法恢復。請三思而後行。",
   "list.danger_settings.delete_list_dialog.confirm_label": "請在下方方框中輸入\"{list}\"以確認。",
-  "list.danger_settings.delete_list_dialog.delete": "我明白後果，刪除",
+  "list.danger_settings.delete_list_dialog.delete": "我明白，刪除",
   "list.danger_settings.delete_list_dialog.others": "我明白與這個頻道相關的所有其他事物將被刪除。",
   "list.danger_settings.delete_list_dialog.posts": "我明白所有文章將被刪除。",
   "list.danger_settings.delete_list_dialog.result": "這將永久刪除 {list} 的所有文章、bower 更新和其他內容。 {list} 的所有訂閱者和合作夥伴將被移除。",
