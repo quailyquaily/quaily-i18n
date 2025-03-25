@@ -458,6 +458,7 @@
   "list.domain_settings.canonical_base": "Canonical URL Base",
   "list.domain_settings.canonical_base.hint": "Canonical URL is the preferred URL for your channel. It may be used by search engines to filter duplicate content. In most practices, it would be good to set it to your custom domain.",
   "list.domain_settings.cname.hint": "It may take several hours for the DNS to take effect.",
+  "list.domain_settings.domain.verify": "Verify",
   "list.domain_settings.domain": "Your Domain",
   "list.domain_settings.domain.hint": "Please create a CNAME record for your domain, and point to the address below. It may take several hours for the DNS to take effect.",
   "list.domain_settings.domain.placeholder": "Domain Here. e.g. letters.example.com",

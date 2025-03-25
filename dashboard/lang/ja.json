@@ -418,6 +418,7 @@
   "list.domain_settings.domain": "あなたのドメイン、例えば letters.example.com",
   "list.domain_settings.domain.hint": "あなたのドメインのためにCNAMEレコードを作成してください。DNSレコードの変更は数時間かかる場合があります。",
   "list.domain_settings.domain.placeholder": "ここにあなたのドメイン",
+  "list.domain_settings.domain.verify": "確認する",
   "list.domain_settings.domain_status.failed": "DNSレコードの検証に失敗しました。",
   "list.domain_settings.domain_status.init": "DNSレコードが設定されていません。",
   "list.domain_settings.domain_status.pending": "進行中のDNSチェック",

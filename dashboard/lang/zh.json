@@ -418,6 +418,7 @@
   "list.domain_settings.domain": "你的域名",
   "list.domain_settings.domain.hint": "请为你的域名创建一个 CNAME 记录，指向下面的地址。添加修改 DNS 记录可能需要几个小时才能生效。",
   "list.domain_settings.domain.placeholder": "你的域名，例如 letters.example.com",
+  "list.domain_settings.domain.verify": "验证",
   "list.domain_settings.domain_status.failed": "DNS 记录验证失败",
   "list.domain_settings.domain_status.init": "DNS记录未配置",
   "list.domain_settings.domain_status.pending": "DNS 检查进行中",

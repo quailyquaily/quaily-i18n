@@ -418,6 +418,7 @@
   "list.domain_settings.domain": "Il tuo dominio",
   "list.domain_settings.domain.hint": "Si prega di creare un record CNAME per il tuo dominio e puntare all'indirizzo sottostante. Potrebbero essere necessarie diverse ore affinché il DNS abbia effetto.",
   "list.domain_settings.domain.placeholder": "Dominio Qui. esempio lettere.com",
+  "list.domain_settings.domain.verify": "Verifica",
   "list.domain_settings.domain_status.failed": "La verifica del record DNS non è riuscita.",
   "list.domain_settings.domain_status.init": "Il record DNS non è configurato.",
   "list.domain_settings.domain_status.pending": "Controllo DNS in corso",
