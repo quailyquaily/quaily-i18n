@@ -137,7 +137,7 @@ stat:
     - id: "users"
       title: "フォロワー"
     - id: "lists"
-      title: "クリエイター"
+      title: "チャンネル"
     - id: "posts"
       title: "投稿"
 

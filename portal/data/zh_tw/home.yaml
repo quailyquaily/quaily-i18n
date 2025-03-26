@@ -44,8 +44,8 @@ features:
     link: "https://docs.quaily.com/writer/ai.html"
   channel:
     title: "連接到你每一個社區"
-    desc: "支持 Telegram, Discord, LINE, Whatsapp, Slack, Wechat* 等應用的無縫整合。可自由在各種管道上連接、分享和參與內容。"
-    hint: "* 部分管道仍在開發中。"
+    desc: "支持 Telegram, Discord, LINE, Whatsapp, Slack, Wechat* 等應用的無縫整合。可自由在各種頻道上連接、分享和參與內容。"
+    hint: "* 部分頻道仍在開發中。"
     link_text: "如何連接"
     link: "https://quaily.com/quail-zh/p/beyond-email-connect-your-community-with-discord-telegram-line"
   math:
@@ -137,7 +137,7 @@ stat:
     - id: "users"
       title: "訂閱者"
     - id: "lists"
-      title: "創作者"
+      title: "頻道頻道"
     - id: "posts"
       title: "文章"
 

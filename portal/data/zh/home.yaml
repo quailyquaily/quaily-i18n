@@ -137,7 +137,7 @@ stat:
     - id: "users"
       title: "订阅者"
     - id: "lists"
-      title: "创作者"
+      title: "频道"
     - id: "posts"
       title: "文章"
 
