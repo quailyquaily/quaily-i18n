@@ -45,8 +45,4 @@ Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information
 
 ## Credits
 
-### Contributors
-
-- @[lyric](https://github.com/lyricat): The initial version of Chinese translation.
-- @[MissMonacoin](https://x.com/MissMonacoin): The initial version of Japanese translation.
-- @[emisjerry](https://x.com/emisjerry): The translation of Traditional Chinese.
+[All contributors](https://github.com/quailyquaily/roadmap/blob/main/CREDITS.md#quaily-i18n)
