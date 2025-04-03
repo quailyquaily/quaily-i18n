@@ -31,8 +31,11 @@ social:
     url: "https://www.producthunt.com/posts/quaily"
 
 meta:
-  - title: "關閉"
+  - title: "關於"
     items:
+      - label: "Quaily AI"
+        title: "Quaily's AI service for enterprise"
+        url: "https://quaily.com/zh_tw/ai"
       - label: "開放原始碼"
         title: "Quaily's Github"
         url: "https://quaily.com/opensource"
@@ -42,9 +45,6 @@ meta:
       - label: "Quaily 其他選擇"
         title: "Alternatives"
         url: "https://quaily.com/quail-zh/p/alternatives"
-      - label: "support@quaily.com"
-        title: "support@quaily.com"
-        url: "#"
   - title: "其他"
     items:
       - label: "Tools"

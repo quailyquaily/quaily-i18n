@@ -33,6 +33,9 @@ social:
 meta:
   - title: "About"
     items:
+      - label: "Quaily AI"
+        title: "Quaily's AI service for enterprise"
+        url: "https://quaily.com/ai"
       - label: "Open Source"
         title: "Quaily's Github"
         url: "https://quaily.com/opensource"
@@ -42,9 +45,6 @@ meta:
       - label: "Alternatives"
         title: "Alternatives"
         url: "https://quaily.com/blog/p/alternatives"
-      - label: "support@quaily.com"
-        title: "support@quaily.com"
-        url: "#"
   - title: "Misc"
     items:
       - label: "Tools"

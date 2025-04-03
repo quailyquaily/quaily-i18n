@@ -33,6 +33,9 @@ social:
 meta:
   - title: "关于"
     items:
+      - label: "Quaily AI"
+        title: "Quaily's AI service for enterprise"
+        url: "https://quaily.com/zh/ai"
       - label: "开放源代码"
         title: "Quaily's Github"
         url: "https://quaily.com/opensource"
@@ -42,9 +45,6 @@ meta:
       - label: "Quaily 替代品"
         title: "Alternatives"
         url: "https://quaily.com/quail-zh/p/alternatives"
-      - label: "support@quaily.com"
-        title: "support@quaily.com"
-        url: "#"
   - title: "其它"
     items:
       - label: "Tools"

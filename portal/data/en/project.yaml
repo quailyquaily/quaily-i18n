@@ -1,0 +1,47 @@
+ai:
+  hero:
+    headline: Quaily AI
+    tagline: "The Ultimate AI Gate for intelligently routing and optimizing your AI tasks"
+  intro:
+    subtitle: "Transform Your AI Infrastructure"
+    title: "businesses need AI solutions that are both powerful and cost-effective"
+    text:
+      - "Quaily AI acts as an intelligent gateway, analyzing each task and routing it to the optimal provider based on performance, cost, and availability."
+      - "With our system, you can access multiple LLMs through a single, unified interface, while our intelligent routing ensures you're always getting the best value for your investment."
+
+  challenges:
+    title: "Common AI Integration Challenges"
+    items:
+      - title: "Cost Efficiency"
+        desc: "Simple tasks can often be executed faster and more economically by selecting the appropriate provider, but manually managing this process is time-consuming and error-prone."
+      - title: "Multiple LLM Integration"
+        desc: "Users demand access to various LLMs in a unified interface, but integrating and maintaining connections to multiple providers requires significant development resources."
+      - title: "Robust Error Handling"
+        desc: "Automatic error handling and retries ensure that your application remains resilient in the face of unforeseen issues, but implementing this logic for each provider is complex."
+      - title: "Load Balancing"
+        desc: "Automatically distributing tasks across multiple providers keeps your system running smoothly under heavy loads, but requires sophisticated monitoring and distribution algorithms."
+      - title: "Bypassing API Limitations"
+        desc: "Overcoming restrictions such as token limits is critical for high-volume applications but requires complex workarounds."
+  features:
+    title: "Key Features"
+    items:
+      - title: "AI Proxy Network"
+        desc: "Intelligently routes tasks to the most cost-effective provider, ensuring that you get the best value for your money without sacrificing quality or performance."
+      - title: "Smart Scheduler"
+        desc: "Automatically distributes tasks across multiple providers, ensuring that your system remains responsive under heavy loads while maximizing throughput."
+      - title: "API-First Approach"
+        desc: "Designed to be easy to integrate with your existing applications, with a simple REST API that can be accessed from any programming language or framework."
+      - title: "LLM + Search Capabilities"
+        desc: "Combine the conversational power of LLMs with the precision of search—similar to features seen in GPT-powered search tools or Perplexity, all through a single API."
+      - title: "Automated Error Handling"
+        desc: "By continuously monitoring task performance and redistributing workloads in real-time, our service ensures that your AI operations remain uninterrupted."
+      - title: "Load Balancing"
+        desc: "Ensure your system remains responsive under heavy demand by automatically distributing workloads across multiple providers based on real-time performance metrics."
+  bottom:
+    title: "Ready to Optimize Your AI Operations?"
+    desc: "Join the growing community of developers and businesses using Quaily AI to streamline their AI infrastructure"
+    actions:
+      primary:
+        title: "Contact us"
+        url: "mailto:support@quaily.com"
+
