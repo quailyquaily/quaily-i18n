@@ -188,7 +188,6 @@
   "delivery_report.issue_name.connection_failure.title": "メールサーバーへの接続に失敗しました",
   "delivery_report.issue_name.dns_error.desc": "メールサーバーが見つかりません。Quailyはこの購読者を後で削除します。",
   "delivery_report.issue_name.dns_error.title": "メールサーバーが見つかりません",
-  "delivery_report.issue_name.mailbox_full.desc": "受取人のメールボックスがいっぱいです。連絡が取れない場合は、この購読者のメール送信を無効にしても安全です。",
   "delivery_report.issue_name.mailbox_full.title": "受取人のメールボックスがいっぱいです",
   "delivery_report.issue_name.mailbox_not_found.desc": "このメールアドレスが見つかりません。Quailyはこの購読者を後で削除します。",
   "delivery_report.issue_name.mailbox_not_found.title": "メールアドレスが見つかりません",

@@ -188,7 +188,6 @@
   "delivery_report.issue_name.connection_failure.title": "Impossibile connettersi al server di posta",
   "delivery_report.issue_name.dns_error.desc": "Il server di posta non è stato trovato. Quaily rimuoverà questo abbonato più tardi.",
   "delivery_report.issue_name.dns_error.title": "Impossibile trovare il server di posta",
-  "delivery_report.issue_name.mailbox_full.desc": "La casella di posta del destinatario è piena. Se non riesci a contattarli, è sicuro disabilitare l'invio di email per questo abbonato.",
   "delivery_report.issue_name.mailbox_full.title": "La casella di posta del destinatario è piena",
   "delivery_report.issue_name.mailbox_not_found.desc": "Questo indirizzo email non è stato trovato. Quaily rimuoverà questo abbonato più tardi.",
   "delivery_report.issue_name.mailbox_not_found.title": "Impossibile trovare l'indirizzo email",

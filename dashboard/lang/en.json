@@ -215,7 +215,7 @@
   "delivery_report.issue_name.mailbox_not_found.title": "Can't find the email address",
   "delivery_report.issue_name.mailbox_not_found.desc": "This email address is not found. Quaily will remove this subscriber later.",
   "delivery_report.issue_name.mailbox_full.title": "The recipient's mailbox is full",
-  "delivery_report.issue_name.mailbox_full.desc": "The recipient's mailbox is full. If you can't reach them, it's safe to disable the email sending for this subscriber.",
+  "delivery_report.issue_name.mailbox_full.desc": "The recipient's mailbox is full. Quaily will disable the email sending for this subscriber.",
   "delivery_report.issue_name.too_old.title": "The session is expired",
   "delivery_report.issue_name.too_old.desc": "The session is expired. Quaily will try to send again later.",
   "delivery_report.issue_name.policy_rejected.title": "Hit a spam filter or block list",

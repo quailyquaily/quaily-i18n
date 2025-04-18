@@ -188,7 +188,6 @@
   "delivery_report.issue_name.connection_failure.title": "無法連接到郵件伺服器",
   "delivery_report.issue_name.dns_error.desc": "找不到郵件伺服器。Quaily 會稍後刪除此訂閱者。",
   "delivery_report.issue_name.dns_error.title": "無法找到郵件伺服器",
-  "delivery_report.issue_name.mailbox_full.desc": "收件人的郵箱已滿。如果無法聯繫他們，建議暫時禁用此訂閱者的郵件發送。",
   "delivery_report.issue_name.mailbox_full.title": "收件人的郵箱已滿",
   "delivery_report.issue_name.mailbox_not_found.desc": "找不到該電子郵件地址。Quaily 會稍後刪除此訂閱者。",
   "delivery_report.issue_name.mailbox_not_found.title": "無法找到電子郵件地址",
