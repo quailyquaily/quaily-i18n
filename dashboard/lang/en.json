@@ -211,6 +211,7 @@
   "delivery_list.ch.line": "Line",
   "delivery_list.ch.twitter": "X",
   "delivery_list.enable_channel": "Enable",
+  "delivery_list.report": "View Report",
   "delivery_report.issue_name.all.title": "All issues",
   "delivery_report.issue_name.mailbox_not_found.title": "Can't find the email address",
   "delivery_report.issue_name.mailbox_not_found.desc": "This email address is not found. Quaily will remove this subscriber later.",
