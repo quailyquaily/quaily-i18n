@@ -183,6 +183,7 @@
   "delivery_list.status.processing": "処理中",
   "delivery_list.status.scheduled": "スケジュール済み",
   "delivery_list.status.unknown": "不明",
+  "delivery_report.issue_name.all.title": "すべての問題",
   "delivery_report.issue_name.connection_failure.desc": "メールサーバーがダウンしています。Quailyは後で再送信を試みます。",
   "delivery_report.issue_name.connection_failure.title": "メールサーバーへの接続に失敗しました",
   "delivery_report.issue_name.dns_error.desc": "メールサーバーが見つかりません。Quailyはこの購読者を後で削除します。",

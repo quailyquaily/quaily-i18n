@@ -183,6 +183,7 @@
   "delivery_list.status.processing": "Elaborazione",
   "delivery_list.status.scheduled": "Pianificato",
   "delivery_list.status.unknown": "Sconosciuto",
+  "delivery_report.issue_name.all.title": "Tutti i problemi",
   "delivery_report.issue_name.connection_failure.desc": "Il server di posta è inattivo. Quaily tenterà di inviargli nuovamente più tardi.",
   "delivery_report.issue_name.connection_failure.title": "Impossibile connettersi al server di posta",
   "delivery_report.issue_name.dns_error.desc": "Il server di posta non è stato trovato. Quaily rimuoverà questo abbonato più tardi.",

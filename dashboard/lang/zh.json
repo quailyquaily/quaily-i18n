@@ -183,6 +183,7 @@
   "delivery_list.status.processing": "处理中",
   "delivery_list.status.scheduled": "已预定",
   "delivery_list.status.unknown": "未知",
+  "delivery_report.issue_name.all.title": "所有问题",
   "delivery_report.issue_name.connection_failure.desc": "邮件服务器故障。Quaily会稍后再试发送。",
   "delivery_report.issue_name.connection_failure.title": "连接邮件服务器失败",
   "delivery_report.issue_name.dns_error.desc": "邮件服务器未找到。Quaily会稍后移除此订阅者。",
