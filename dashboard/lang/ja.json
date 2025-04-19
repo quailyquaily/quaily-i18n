@@ -513,6 +513,7 @@
   "list.payment_settings.external.stripe.primary_currency.hint": "支払い・決済に使用する通貨は現地通貨を推奨します。",
   "list.payment_settings.external.stripe.secret_key": "ストライプAPIキー",
   "list.payment_settings.external.stripe.secret_key.hint": "ここに制限付きAPIキーを作成し、貼り付けてください。",
+  "list.payment_settings.external.stripe.test_hint": "ご自身でテスト決済を行い、Webhookが正常に動作しているかご確認ください。",
   "list.payment_settings.external.stripe.title": "自己ホストストライプ設定",
   "list.payment_settings.external.stripe.webhook_url": "Webhook URL.",
   "list.payment_settings.external.stripe.webhook_url.hint": "このURLを使用してStripe開発者用のWebhookを作成します。",

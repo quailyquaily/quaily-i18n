@@ -579,6 +579,7 @@
   "list.payment_settings.external.stripe.webhook_url.hint": "Create a Webhook in Stripe developer use this URL",
   "list.payment_settings.external.stripe_information": "Tap to read the guide about how to get required information from Stripe",
   "list.payment_settings.external.stripe_information.guide_link": "https://docs.quaily.com/writer/payment-settings.html",
+  "list.payment_settings.external.stripe.test_hint": "Please test if the webhook is working by sending a test payment yourself",
   "list.payment_settings.merchant.info": "Merchant Information",
   "list.payment_settings.merchant.info.desc": "The public merchant information of this channel",
   "list.payment_settings.fiat.enable": "Enable Payment",

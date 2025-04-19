@@ -510,6 +510,7 @@
   "list.payment_settings.external.stripe.primary_currency.hint": "La valuta verrà utilizzata nel pagamento.",
   "list.payment_settings.external.stripe.secret_key": "Chiave API di Stripe",
   "list.payment_settings.external.stripe.secret_key.hint": "Crea una chiave API restritta, incollala qui.",
+  "list.payment_settings.external.stripe.test_hint": "Si prega di verificare se il webhook funziona inviando un pagamento di prova personalmente.",
   "list.payment_settings.external.stripe.title": "Impostazioni di auto-ospitaggio di Stripe",
   "list.payment_settings.external.stripe.webhook_url": "URL del webhook",
   "list.payment_settings.external.stripe.webhook_url.hint": "Creare un Webhook nello sviluppatore di Stripe utilizzando questo URL.",

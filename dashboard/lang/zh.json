@@ -513,6 +513,7 @@
   "list.payment_settings.external.stripe.primary_currency.hint": "用于支付结算的货币，建议使用所在地的货币。",
   "list.payment_settings.external.stripe.secret_key": "Stripe API密钥",
   "list.payment_settings.external.stripe.secret_key.hint": "创建一个受限制的 API 密钥，粘贴在这里",
+  "list.payment_settings.external.stripe.test_hint": "请自行发送测试付款，以测试Webhook是否正常工作",
   "list.payment_settings.external.stripe.title": "自托管 Stripe 设置",
   "list.payment_settings.external.stripe.webhook_url": "Webhook URL",
   "list.payment_settings.external.stripe.webhook_url.hint": "使用此 URL 在 Stripe 开发者中创建一个 Webhook。",
