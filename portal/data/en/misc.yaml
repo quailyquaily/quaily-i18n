@@ -1,0 +1,6 @@
+notfound:
+  title: "Oooops, you've lost the road"
+  subtitle: "The page you're looking for doesn't exist"
+  actions:
+    search: "Search ?"
+    explore: "Explore ?"

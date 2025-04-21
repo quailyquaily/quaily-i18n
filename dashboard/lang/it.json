@@ -736,6 +736,7 @@
   "payout_view.stripe.connect_stripe_dialog.title": "Collega Stripe",
   "payout_view.stripe.desc": "ID: {account}",
   "payout_view.stripe.desc.disconnected": "Non connesso.",
+  "payout_view.stripe.desc.disconnected.hint": "Solo i residenti in Giappone possono collegarsi a Stripe per i pagamenti.",
   "payout_view.stripe.status.not_submitted": "Deve inviare documenti d'identità.",
   "payout_view.stripe.status.payouts_disabled": "In revisione",
   "payout_view.stripe.status.payouts_enabled": "Pagamenti abilitati",

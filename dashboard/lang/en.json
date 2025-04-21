@@ -767,6 +767,7 @@
   "payout_view.stripe.connect_stripe_dialog.title": "Connect Stripe",
   "payout_view.stripe.desc": "ID: {account}",
   "payout_view.stripe.desc.disconnected": "Not connected",
+  "payout_view.stripe.desc.disconnected.hint": "Only Japan residents can connect to Stripe for Payouts",
   "payout_view.stripe.status.not_submitted": "Need to Submit Identity Documents",
   "payout_view.stripe.status.payouts_disabled": "In Review",
   "payout_view.stripe.status.payouts_enabled": "Payouts Enabled",

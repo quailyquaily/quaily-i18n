@@ -740,6 +740,7 @@
   "payout_view.stripe.connect_stripe_dialog.title": "ストライプを接続",
   "payout_view.stripe.desc": "ID：{account}",
   "payout_view.stripe.desc.disconnected": "接続されていません。",
+  "payout_view.stripe.desc.disconnected.hint": "日本に居住している方のみが、PayoutsのためにStripeに接続できます。",
   "payout_view.stripe.status.not_submitted": "身分証明書を提出する必要があります。",
   "payout_view.stripe.status.payouts_disabled": "レビュー中",
   "payout_view.stripe.status.payouts_enabled": "支払いが有効になりました。",

@@ -1,0 +1,12 @@
+default:
+  title: "Quaily"
+  subtitle: "A Modern AI-powered newsletter service for creators"
+  description: "Quaily is an AI-powered creator service, supports multiple sending channels, including email, telegram, and discord, integrate with Obsidian."
+ai:
+  title: "Quaily AI"
+  subtitle: "The Ultimate AI Gate solution for your AI business"
+  description: "The Ultimate AI Gate solution for intelligently routing and optimizing your business AI tasks"
+notfound:
+  title: "Not found"
+  subtitle: "The page you're looking for doesn't exist"
+  description: "Quaily is an AI-powered creator service, supports multiple sending channels, including email, telegram, and discord, integrate with Obsidian."

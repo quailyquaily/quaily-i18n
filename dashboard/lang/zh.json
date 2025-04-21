@@ -741,6 +741,7 @@
   "payout_view.stripe.connect_stripe_dialog.title": "连接Stripe",
   "payout_view.stripe.desc": "ID：{account}",
   "payout_view.stripe.desc.disconnected": "未连接",
+  "payout_view.stripe.desc.disconnected.hint": "只有日本居民可以连接 Stripe 以进行出金",
   "payout_view.stripe.status.not_submitted": "需要提交身份证明文件",
   "payout_view.stripe.status.payouts_disabled": "审核中",
   "payout_view.stripe.status.payouts_enabled": "支付已启用",

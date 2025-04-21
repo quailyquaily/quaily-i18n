@@ -1,0 +1,12 @@
+default:
+  title: "Quaily"
+  subtitle: "モダンで AI ベースのニュースレターサービス"
+  description: Quaily は、モダンで AI ベースのニュースレターサービスです。メール、telegram、discord など、複数のプッシュチャネルをサポートしています。Obsidian や VScode などの人気のあるエディターとの統合も良好です。
+ai:
+  title: "Quaily AI"
+  subtitle: "モダンで AI ベースのニュースレターサービス"
+  description: "インテリジェントルーティング、負荷分散、エラー処理、API優先度などの機能を含む、企業向けの最も強力なAIソリューションを提供します。"
+notfound:
+  title: "見つかりません"
+  subtitle: "お探しのページは見つかりません"
+  description: "Quaily は、モダンで AI ベースのニュースレターサービスです。メール、telegram、discord など、複数のプッシュチャネルをサポートしています。Obsidian や VScode などの人気のあるエディターとの統合も良好です。"

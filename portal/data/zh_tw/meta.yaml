@@ -1,0 +1,12 @@
+default:
+  title: "Quaily"
+  subtitle: "為創作者提供現代人工智慧新聞通訊服務"
+  description: Quaily 是一個現代化的，基於 AI 的，新聞訂閱服務。它支持多種推送渠道，包括郵件，telegram 和 discord。它與流行的編輯器（如 Obsidian 和 VScode）有很好的集成。
+ai:
+  title: "Quaily AI"
+  subtitle: "適合您的 AI 業務的終極 AI Gate 解決方案"
+  description: "為企業提供最強大的 AI 解決方案，包含智慧路由、負載平衡、錯誤處理、API 優先等特性"
+notfound:
+  title: "找不到頁面"
+  subtitle: "正在尋找的頁面不存在"
+  description: Quaily 是一個現代化的，基於 AI 的，新聞訂閱服務。它支持多種推送渠道，包括郵件，telegram 和 discord。它與流行的編輯器（如 Obsidian 和 VScode）有很好的集成。
