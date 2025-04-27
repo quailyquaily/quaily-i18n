@@ -336,7 +336,7 @@
   "list.ads_settings.auto_ads_provider.off": "关闭",
   "list.ads_settings.flat_ads_list.budget_usd_prefix": "预算：",
   "list.ads_settings.flat_ads_list.price_usd_prefix": "价格：",
-  "list.ads_settings.flat_ads_list.title": "固定价格广告",
+  "list.ads_settings.flat_ads_list.title": "一口价广告",
   "list.ads_settings.lowest_flat_price_usd": "最低一口价（美元）",
   "list.ads_settings.not_qualified_hint": "你还不具备启用广告的条件。",
   "list.analytics_settings": "分析设置",
