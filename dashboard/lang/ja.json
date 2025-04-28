@@ -16,6 +16,8 @@
   "account_menu.logout": "ログアウト",
   "account_menu.profile": "アカウント",
   "account_menu.reader": "読者",
+  "ads_claim_dialog.text": "次の記事に以下のコードをコピーしてください。なお、この広告を挿入できるのは新しい記事のみです。",
+  "ads_claim_dialog.title": "この広告を請求する",
   "apikey.name": "APIキー名",
   "app_name": "Quaily",
   "assistant_panel.func.preview": "プレビュー",

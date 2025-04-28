@@ -16,6 +16,8 @@
   "account_menu.profile": "Me",
   "account_menu.reader": "Reader",
   "account_menu.docs_url": "https://docs.quaily.com/writer",
+  "ads_claim_dialog.title": "Claim this Ads",
+  "ads_claim_dialog.text": "Copy the following code to your new post. Please note that only new posts are eligible to insert this ads.",
   "apikey.name": "API Key Name",
   "app_name": "Quaily",
   "assistant_panel.title": "Quial Assistant",

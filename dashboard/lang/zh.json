@@ -16,6 +16,8 @@
   "account_menu.logout": "登出",
   "account_menu.profile": "账户",
   "account_menu.reader": "阅读",
+  "ads_claim_dialog.text": "将以下代码复制到你的新文章中。请注意，只有新文章才能插入此广告。",
+  "ads_claim_dialog.title": "领取此广告",
   "apikey.name": "API 密钥名称",
   "app_name": "Quaily",
   "assistant_panel.func.preview": "预览",

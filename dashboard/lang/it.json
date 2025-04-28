@@ -16,6 +16,8 @@
   "account_menu.logout": "Disconnettersi",
   "account_menu.profile": "Io",
   "account_menu.reader": "Lettore",
+  "ads_claim_dialog.text": "Copia il seguente codice nel tuo nuovo post. Tieni presente che solo i nuovi post possono inserire questa pubblicità.",
+  "ads_claim_dialog.title": "Richiedi questa Pubblicità",
   "apikey.name": "Nome della chiave API",
   "app_name": "Quaily translates to \"di qualità\" in italiano.",
   "assistant_panel.func.preview": "Anteprima",
