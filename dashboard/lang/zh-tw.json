@@ -168,6 +168,7 @@
   "delete_apikey_dialog.delete": "刪除",
   "delete_apikey_dialog.desc": "確定要刪除 API 金鑰嗎？",
   "delete_apikey_dialog.title": "刪除 API 金鑰",
+  "delivery_list.ch.bluesky": "Bluesky",
   "delivery_list.ch.discord": "Discord",
   "delivery_list.ch.email": "電子郵件",
   "delivery_list.ch.email.failed": "{count} 失敗",

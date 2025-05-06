@@ -212,6 +212,7 @@
   "delivery_list.ch.discord": "Discord",
   "delivery_list.ch.line": "Line",
   "delivery_list.ch.twitter": "X",
+  "delivery_list.ch.bluesky": "Bluesky",
   "delivery_list.enable_channel": "Enable",
   "delivery_list.report": "View Report",
   "delivery_report.issue_name.all.title": "All issues",
