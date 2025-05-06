@@ -378,7 +378,7 @@
   "list.channel_settings.bluesky.service_url.hint": "デフォルトでは、https://bsky.social です。",
   "list.channel_settings.bluesky.service_url.placeholder": "サービスURL",
   "list.channel_settings.bluesky.username": "ユーザー名",
-  "list.channel_settings.bluesky.username.hint": "@{...}.bsky.social または @{...}.custom.domain の形式で入力してください",
+  "list.channel_settings.bluesky.username.hint": "{'@'}*.bsky.social または {'@'}*.custom.domain の形式で入力してください",
   "list.channel_settings.bluesky.username.placeholder": "あなたのBlueskyユーザー名",
   "list.channel_settings.bluesky_enabled": "Blueskyを有効にする",
   "list.channel_settings.bluesky_enabled.desc": "投稿はあなたのBlueskyに送信されます。",
