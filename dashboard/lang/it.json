@@ -420,6 +420,8 @@
   "list.channel_settings.slack.connect": "Connetti con Slack",
   "list.channel_settings.slack.copy_command.hint": "Copia il comando e incollalo nel canale Slack dove vuoi inviare il post.",
   "list.channel_settings.slack.expired_hint": "La connessione a Slack è scaduta, per favore riconnetti.",
+  "list.channel_settings.slack.invite_url.hint": "Facoltativo. Puoi specificare un URL di invito Slack per invitare i tuoi iscritti al tuo workspace Slack.",
+  "list.channel_settings.slack.invite_url.placeholder": "URL di invito Slack (facoltativo)",
   "list.channel_settings.slack.reconnect": "Riconnetti Slack",
   "list.channel_settings.slack_enabled": "Abilita Slack",
   "list.channel_settings.slack_enabled.desc": "Il post verrà inviato al tuo canale Slack.",

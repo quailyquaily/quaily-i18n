@@ -471,6 +471,8 @@
   "list.channel_settings.slack.reconnect": "Reconnect Slack",
   "list.channel_settings.slack_enabled": "Enable Slack",
   "list.channel_settings.slack_enabled.desc": "Post will be sent to your Slack channel.",
+  "list.channel_settings.slack.invite_url.hint": "Optional. You can specific a Slack invite URL to invite your subscribers to your Slack Workspace.",
+  "list.channel_settings.slack.invite_url.placeholder": "Slack Invite URL (optional)",
   "list.ads_settings": "Advertising Settings",
   "list.ads_settings.lowest_flat_price_usd": "Lowest Fixed Price (USD)",
   "list.ads_settings.auto_ads_provider": "Auto Ads Provider",

@@ -420,6 +420,8 @@
   "list.channel_settings.slack.connect": "连接到 Slack 帐户",
   "list.channel_settings.slack.copy_command.hint": "点击按钮复制命令，然后粘贴到想要发送文章的 Slack 频道中。",
   "list.channel_settings.slack.expired_hint": "Slack 连接已过期，请重新连接。",
+  "list.channel_settings.slack.invite_url.hint": "可选。可以指定一个 Slack 邀请链接来邀请订阅者加入你的 Slack 工作区。",
+  "list.channel_settings.slack.invite_url.placeholder": "Slack 邀请链接（可选）",
   "list.channel_settings.slack.reconnect": "重新连接 Slack",
   "list.channel_settings.slack_enabled": "启用 Slack",
   "list.channel_settings.slack_enabled.desc": "文章将发送到 Slack 频道发送。",

@@ -420,6 +420,8 @@
   "list.channel_settings.slack.connect": "Slackと接続する",
   "list.channel_settings.slack.copy_command.hint": "コマンドをコピーし、投稿したいSlackチャネルに貼り付けてください。",
   "list.channel_settings.slack.expired_hint": "Slackの接続が期限切れです。再接続してください。",
+  "list.channel_settings.slack.invite_url.hint": "任意です。Slackワークスペースにサブスクライバーを招待するためのSlack招待URLを指定できます。",
+  "list.channel_settings.slack.invite_url.placeholder": "Slack招待URL（任意）",
   "list.channel_settings.slack.reconnect": "Slackを再接続する",
   "list.channel_settings.slack_enabled": "Slackを有効にする",
   "list.channel_settings.slack_enabled.desc": "投稿があなたのSlackチャネルに送信されます。",
