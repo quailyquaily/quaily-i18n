@@ -175,6 +175,7 @@
   "delivery_list.ch.email.sent": "{count} inviato",
   "delivery_list.ch.email.total": "{count} totale",
   "delivery_list.ch.line": "Linea",
+  "delivery_list.ch.slack": "Slack",
   "delivery_list.ch.telegram": "Telegram",
   "delivery_list.ch.twitter": "X",
   "delivery_list.deleted_post": "Questo post è stato eliminato.",

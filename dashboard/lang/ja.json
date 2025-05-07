@@ -175,6 +175,7 @@
   "delivery_list.ch.email.sent": "{count} 送信済",
   "delivery_list.ch.email.total": "{count} 合計",
   "delivery_list.ch.line": "LINE",
+  "delivery_list.ch.slack": "Slack",
   "delivery_list.ch.telegram": "Telegram",
   "delivery_list.ch.twitter": "ツイッター",
   "delivery_list.deleted_post": "この記事は削除されました。",
