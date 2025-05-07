@@ -382,7 +382,7 @@
   "list.channel_settings.bluesky.service_url.hint": "默認為 https://bsky.social。",
   "list.channel_settings.bluesky.service_url.placeholder": "伺服器的網址",
   "list.channel_settings.bluesky.username": "用戶名",
-  "list.channel_settings.bluesky.username.hint": "應該類似 *.bsky.social 或 *.custom.domain",
+  "list.channel_settings.bluesky.username.hint": "應該類似 *.bsky.social 或 custom.domain",
   "list.channel_settings.bluesky.username.placeholder": "你的 Bluesky 用戶名",
   "list.channel_settings.bluesky_enabled": "啟用 Bluesky",
   "list.channel_settings.bluesky_enabled.desc": "文章將會發送到你的 Bluesky。",

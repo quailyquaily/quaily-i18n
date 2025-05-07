@@ -413,7 +413,7 @@
   "list.channel_settings.bluesky.service_url.hint": "by default, it's https://bsky.social .",
   "list.channel_settings.bluesky.username": "Username",
   "list.channel_settings.bluesky.username.placeholder": "Your Bluesky username",
-  "list.channel_settings.bluesky.username.hint": "It should be like *.bsky.social or *.custom.domain",
+  "list.channel_settings.bluesky.username.hint": "It should be like *.bsky.social or custom.domain",
   "list.channel_settings.bluesky.app_password": "App Password",
   "list.channel_settings.bluesky.app_password.placeholder": "Your Bluesky app password",
   "list.channel_settings.bluesky.app_password.hint": "You can create it at bluesky's `Settings \u0026 Privacy and Security \u0026 App Passwords`.",

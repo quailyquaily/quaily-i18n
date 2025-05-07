@@ -382,7 +382,7 @@
   "list.channel_settings.bluesky.service_url.hint": "Di default, è https://bsky.social.",
   "list.channel_settings.bluesky.service_url.placeholder": "L'URL del server",
   "list.channel_settings.bluesky.username": "Nome utente",
-  "list.channel_settings.bluesky.username.hint": "Dovrebbe essere simile a *.bsky.social o *.custom.domain",
+  "list.channel_settings.bluesky.username.hint": "Dovrebbe essere simile a *.bsky.social o custom.domain",
   "list.channel_settings.bluesky.username.placeholder": "Il tuo nome utente Bluesky",
   "list.channel_settings.bluesky_enabled": "Attiva Bluesky",
   "list.channel_settings.bluesky_enabled.desc": "I post saranno inviati al tuo Bluesky.",
