@@ -35,8 +35,13 @@ features:
   editor:
     title: "Your Editor, Your Journey"
     desc: "The best writing experience is using the editor you're most comfortable with, for example, Obsidian."
-    link_text: "Enjoy your Editors"
-    link: "https://quaily.com/blog/p/write-with-favorite-editor-and-publish-to-quaily"
+    links:
+      obsidian:
+        title: "Write with Favorite Editor Obsidian and Publish to Quaily"
+        url: "https://quaily.com/blog/p/write-with-favorite-editor-and-publish-to-quaily"
+      cli:
+        title: "Introducing Quaily CLI, Streamline Your Newsletter Workflow"
+        url: "https://quaily.com/blog/p/introducing-quail-cli-streamline-your-newsletter-workflow"
   ai:
     title: "AI Empowered"
     desc: "Unlock unprecedented liberty with our AI-powered approaches, embark on a journey of knowledge and self-discovery, and amplifies your unique brilliance."
@@ -44,10 +49,17 @@ features:
     link: "https://docs.quaily.com/writer/ai.html"
   channel:
     title: "Connect to the world"
-    desc: "Offering seamless integration with X, Telegram, Discord, LINE, Whatsapp, Slack, Wechat*."
-    hint: "* Some channels are still in development."
-    link_text: "Connect Guide"
-    link: "https://quaily.com/blog/p/beyond-email-connect-your-community-with-discord-telegram-line"
+    desc: "Offering seamless integration with  Telegram, Discord, LINE, X, Bluesky,Slack etc"
+    links:
+      discord:
+        title: "Beyond Email, Connect Your Newsletter with Discord, Telegram, LINE"
+        url: "https://quaily.com/blog/p/beyond-email-connect-your-community-with-discord-telegram-line"
+      x:
+        title: "Not Just Email, Send Newsletter to X and Bluesky"
+        url: "https://quaily.com/blog/p/not-just-email-send-newsletter-to-x-and-bluesky"
+      slack:
+        title: "Not Just Email, Send Newsletter to Slack too"
+        url: "https://quaily.com/blog/p/not-just-email-send-newsletter-to-slack"
   math:
     title: "Beautiful Equations and Diagrams"
     desc: "Quaily has excellent support for scientific and engineering writing. It's easy to create equations and diagrams in your posts."

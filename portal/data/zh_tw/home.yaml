@@ -35,8 +35,13 @@ features:
   editor:
     title: "自由選擇編輯器"
     desc: "最佳的寫作體驗從舒適的編輯器開始。Quaily 支持在 Obsidian、VSCode 和 Vim 等編輯器中撰寫內容。"
-    link_text: "配置嚮導"
-    link: "https://quaily.com/quail-zh/p/write-with-favorite-editor-and-publish-to-quaily"
+    links:
+      obsidian:
+        title: "使用你喜歡的編輯器（例如 Obsidian）在 Quaily 上寫作"
+        url: "https://quaily.com/quail-zh/p/write-with-favorite-editor-and-publish-to-quaily"
+      cli:
+        title: "介紹 Quaily CLI，簡化你的工作流程"
+        url: "https://quaily.com/quail-zh/p/introducing-quail-cli-simplifying-your-workflow"
   ai:
     title: "與 AI 共同創作"
     desc: "用 Quaily AI 解鎖前所未有的創作自由，開啓知識和自我發現的旅程，放大你的獨特才華。"
@@ -44,10 +49,17 @@ features:
     link: "https://docs.quaily.com/writer/ai.html"
   channel:
     title: "連接到你每一個社區"
-    desc: "支持 Telegram, Discord, LINE, Whatsapp, Slack, Wechat* 等應用的無縫整合。可自由在各種頻道上連接、分享和參與內容。"
-    hint: "* 部分頻道仍在開發中。"
-    link_text: "如何連接"
-    link: "https://quaily.com/quail-zh/p/beyond-email-connect-your-community-with-discord-telegram-line"
+    desc: "支持 Telegram, Discord, LINE, Slack, Bluesky, X 等應用的無縫整合。可自由在各種頻道上連接、分享和參與內容。"
+    links:
+      discord:
+        title: "超越郵件，連接你的社區到 Discord、Telegram、LINE"
+        url: "https://quaily.com/quail-zh/p/beyond-email-connect-your-community-with-discord-telegram-line"
+      x:
+        title: "超越郵件，把 Newsletter 也發送到 X 和 Bluesky"
+        url: "https://quaily.com/quail-zh/p/not-just-email-send-newsletter-to-x-and-bluesky"
+      slack:
+        title: "超越郵件，把 Newsletter 也發送到 Slack"
+        url: "https://quaily.com/quail-zh/p/not-just-email-send-newsletter-to-slack"
   math:
     title: "優雅的公式和圖示"
     desc: "Quaily 對科學和工程寫作有很好的支持，很容易就可以在你的文章中創建公式和各類圖示。"

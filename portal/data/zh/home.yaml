@@ -29,28 +29,40 @@ finance:
     title: "估算你的社区价值"
     subscriber: "订阅者"
     estimate_value: "每年*"
-    hint: "*该估算基于Quail当前数据，可能会有变化。"
+    hint: "*该估算基于 Quaily 历史数据，可能会有变化。"
 
 features:
   editor:
     title: "自由选择编辑器"
-    desc: "最佳的写作体验从舒适的编辑器开始。Quaily支持在Obsidian、VSCode和Vim等编辑器中撰写内容。"
-    link_text: "配置向导"
-    link: "https://quaily.com/quail-zh/p/write-with-favorite-editor-and-publish-to-quaily"
+    desc: "最佳的写作体验从舒适的编辑器开始。Quaily 支持在 Obsidian 和 命令行 等编辑器中撰写内容。"
+    links:
+      obsidian:
+        title: "使用你喜欢的编辑器（例如 Obsidian）在 Quaily 上写作"
+        url: "https://quaily.com/quail-zh/p/write-with-favorite-editor-and-publish-to-quaily"
+      cli:
+        title: "介绍 Quaily CLI，简化你的工作流程"
+        url: "https://quaily.com/quail-zh/p/introducing-quail-cli-simplifying-your-workflow"
   ai:
-    title: "与AI共同创作"
-    desc: "用Quaily AI解锁前所未有的创作自由，开启知识与自我发现的旅程，放大你的独特才华。"
+    title: "与 AI 共同创作"
+    desc: "用 Quaily AI 解锁前所未有的创作自由，开启知识与自我发现的旅程，放大你的独特才华。"
     link_text: "探索 Quaily AI"
     link: "https://docs.quaily.com/writer/ai.html"
   channel:
     title: "连接到你的每一个社区"
-    desc: "支持Telegram、Discord、LINE、Whatsapp、Slack、Wechat*等应用的无缝集成。可自由在各种渠道上连接、分享和参与内容。"
-    hint: "*部分渠道仍在开发中。"
-    link_text: "如何连接"
-    link: "https://quaily.com/quail-zh/p/beyond-email-connect-your-community-with-discord-telegram-line"
+    desc: "支持Telegram、Discord、LINE、Bluesky、Slack、X 等应用的无缝集成。可自由在各种渠道上连接、分享和参与内容。"
+    links:
+      discord:
+        title: "超越邮件，把 Newsletter 也发送到 Discord、Telegram、LINE"
+        url: "https://quaily.com/quail-zh/p/beyond-email-connect-your-community-with-discord-telegram-line"
+      x:
+        title: "超越邮件，把 Newsletter 也发送到 X 和 Bluesky"
+        url: "https://quaily.com/quail-zh/p/not-just-email-send-newsletter-to-x-and-bluesky"
+      slack:
+        title: "超越邮件，把 Newsletter 也发送到 Slack"
+        url: "https://quaily.com/quail-zh/p/not-just-email-send-newsletter-to-slack"
   math:
     title: "优雅的公式和图示"
-    desc: "Quaily对科学和工程写作有很好的支持，很容易就在文章中创建公式和各类图示。"
+    desc: "Quaily 对科学和工程写作有很好的支持，很容易就在文章中创建公式和各类图示。"
     link_text: "看看效果"
     link: "https://quaily.com/quail-zh/p/extended-markdown-syntax#equation-formula"
 

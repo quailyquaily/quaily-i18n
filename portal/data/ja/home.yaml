@@ -34,9 +34,14 @@ finance:
 features:
   editor:
     title: "あなたのエディター、あなたの旅"
-    desc: "最高の執筆体験は、最も快適なエディターを使用することです。"
-    link_text: "お好きなエディターで執筆"
-    link: "https://quaily.com/quaily-ja/p/write-with-favorite-editor-publish-on-quaily"
+    desc: "最高の執筆体験は、最も快適なエディター、Obsidianなど、を使用することですよね。"
+    links:
+      obsidian:
+        title: "お気に入りのエディタObsidianで書いて Quaily に公開する"
+        url: "https://quaily.com/quaily-ja/p/write-with-favorite-editor-publish-on-quaily"
+      cli:
+        title: "Quaily CLIの紹介と機能説明"
+        url: "https://quaily.com/quaily-ja/p/introducing-quail-cli-simplifying-your-workflow"
   ai:
     title: "AIによる強化"
     desc: "AIパワーのアプローチで前例のない自由を解放し、知識と自己発見の旅に乗り出し、独自の輝きを増幅します。"
@@ -44,10 +49,18 @@ features:
     link: "https://docs.quaily.com/writer/ai.html"
   channel:
     title: "世界とつながる"
-    desc: "X、Telegram、Discord、LINE、Whatsapp、Slack、Wechat*とのシームレスな統合を提供します。"
+    desc: "X、Telegram、Discord、LINE、Bluesky、Slackとのシームレスな統合を提供します。"
     hint: "* 一部のチャンネルは開発中です。"
-    link_text: "接続ガイド"
-    link: "https://quaily.com/quaily-ja/p/beyond-email-connect-your-community-with-discord-telegram-line"
+    links:
+      discord:
+        title: "コミュニティとDiscord、Telegram、LINEを接続する"
+        url: "https://quaily.com/quaily-ja/p/beyond-email-connect-your-community-with-discord-telegram-line"
+      x:
+        title: "コミュニティとXとBlueskyを接続する"
+        url: "https://quaily.com/quaily-ja/p/not-just-email-send-newsletter-to-x-and-bluesky"
+      slack:
+        title: "コミュニティとSlackを接続する"
+        url: "https://quaily.com/quaily-ja/p/not-just-email-send-newsletter-to-slack"
   math:
     title: "美しい数式と図"
     desc: "Quailyは科学的および工学的執筆に優れたサポートを提供します。投稿で数式と図を簡単に作成できます。"
