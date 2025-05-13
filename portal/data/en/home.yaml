@@ -49,7 +49,7 @@ features:
     link: "https://docs.quaily.com/writer/ai.html"
   channel:
     title: "Connect to the world"
-    desc: "Offering seamless integration with  Telegram, Discord, LINE, X, Bluesky,Slack etc"
+    desc: "Offering seamless integration with  Telegram, Discord, LINE, X, Bluesky, Slack etc"
     links:
       discord:
         title: "Beyond Email, Connect Your Newsletter with Discord, Telegram, LINE"
