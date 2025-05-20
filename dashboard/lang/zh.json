@@ -491,7 +491,7 @@
   "list.danger_settings.delete_list_dialog.result": "这将永久删除{list}的所有文章、bower更新和其他内容。{list}的所有订阅者和合作者将被移除。",
   "list.danger_settings.delete_list_dialog.subs": "我明白所有订阅者将被删除。",
   "list.danger_settings.delete_list_dialog.title": "删除这个频道？",
-  "list.danger_settings.delete_list_dialog.warning": "警告：您无法撤销此操作！",
+  "list.danger_settings.delete_list_dialog.warning": "警告：您无法撤销此操作。且删除需要等待 48 小时才能完成，期间无法创建新频道。",
   "list.data_settings": "数据设置",
   "list.data_settings.export": "导出数据",
   "list.data_settings.export.desc": "导出此频道的订阅者和文章数据。",

@@ -491,7 +491,7 @@
   "list.danger_settings.delete_list_dialog.result": "Questo eliminerà definitivamente tutti i post, gli aggiornamenti di bower e altri contenuti di {elenco}. Tutti gli iscritti e collaboratori di {elenco} saranno rimossi.",
   "list.danger_settings.delete_list_dialog.subs": "Capisco che tutti gli abbonati saranno cancellati.",
   "list.danger_settings.delete_list_dialog.title": "Eliminare questo canale?",
-  "list.danger_settings.delete_list_dialog.warning": "ATTENZIONE: NON È POSSIBILE ANNULLARE QUESTA AZIONE!",
+  "list.danger_settings.delete_list_dialog.warning": "ATTENZIONE: NON È POSSIBILE ANNULLARE QUESTA AZIONE! Il processo di eliminazione richiederà circa 48 ore per completare, durante le quali non potrai creare un nuovo canale.",
   "list.data_settings": "Impostazioni dati",
   "list.data_settings.export": "Esporta dati",
   "list.data_settings.export.desc": "Esporta i dati degli iscritti e dei post di questo canale.",

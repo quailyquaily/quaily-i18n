@@ -491,7 +491,7 @@
   "list.danger_settings.delete_list_dialog.result": "これにより、{list}のすべての記事、bowerの更新、およびその他のコンテンツが永久に削除されます。{list}のすべての購読者および協力者が削除されます。",
   "list.danger_settings.delete_list_dialog.subs": "すべての加入者が削除されることを理解しています。",
   "list.danger_settings.delete_list_dialog.title": "このチャンネルを削除しますか？",
-  "list.danger_settings.delete_list_dialog.warning": "注意：この操作は元に戻すことができません！",
+  "list.danger_settings.delete_list_dialog.warning": "ご注意: この操作は元に戻せません！削除には約48時間かかります。この間、新しいチャネルを作成することはできません。",
   "list.data_settings": "データ設定",
   "list.data_settings.export": "エクスポート",
   "list.data_settings.export.desc": "このチャンネルの購読者と記事データをエクスポートします。",

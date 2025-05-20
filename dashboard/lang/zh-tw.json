@@ -491,7 +491,7 @@
   "list.danger_settings.delete_list_dialog.result": "這將永久刪除 {list} 的所有文章、bower 更新和其他內容。 {list} 的所有訂閱者和合作夥伴將被移除。",
   "list.danger_settings.delete_list_dialog.subs": "我明白所有訂閱者將被刪除。",
   "list.danger_settings.delete_list_dialog.title": "刪除此頻道？",
-  "list.danger_settings.delete_list_dialog.warning": "注意：您無法撤銷此操作！",
+  "list.danger_settings.delete_list_dialog.warning": "注意：您無法撤銷此操作，且删除需要等待 48 小时才能完成，期间无法创建新频道。",
   "list.data_settings": "資料設置",
   "list.data_settings.export": "匯出資料",
   "list.data_settings.export.desc": "匯出此頻道的訂閱者和文章資料。",

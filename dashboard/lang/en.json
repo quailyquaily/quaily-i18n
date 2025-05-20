@@ -532,7 +532,7 @@
   "list.danger_settings.delete_list_dialog.posts": "I understand all posts will be deleted",
   "list.danger_settings.delete_list_dialog.others": "I understand all other things related with this channel will be deleted",
   "list.danger_settings.delete_list_dialog.title": "Delete this channel?",
-  "list.danger_settings.delete_list_dialog.warning": "CAUTION: YOU CAN NOT UNDO THIS ACTION!",
+  "list.danger_settings.delete_list_dialog.warning": "CAUTION: YOU CAN NOT UNDO THIS ACTION! It will take about 48 hours to complete the deletion, during which you cannot create a new channel.",
   "list.data_settings.export": "Export Data",
   "list.data_settings.export.desc": "Export subscribers and posts data of this channel.",
   "list.data_settings.export_list_dialog.export": "Export",
