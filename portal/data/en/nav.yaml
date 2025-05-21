@@ -1,9 +1,8 @@
 menu:
   items:
-    - label: "Search"
-      url: "/search"
-      description: "Quaily Search"
-      target: "_blank"
+    - label: "Explore"
+      url: "/explore/en/trending"
+      description: "Explore the latest and most popular stories on Quaily"
     - label: "Blog"
       url: "/blog"
       description: "The official blog of Quaily"

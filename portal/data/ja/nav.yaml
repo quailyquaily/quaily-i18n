@@ -1,9 +1,8 @@
 menu:
   items:
-    - label: "検索"
-      url: "/search"
-      description: "Quaily 検索"
-      target: "_blank"
+    - label: "探索"
+      url: "/explore/ja/trending"
+      description: "Quailyの最新のトレンドストーリーを探索"
     - label: "ブログ"
       url: "/quaily-ja"
       description: "Quailyの公式ブログ"
