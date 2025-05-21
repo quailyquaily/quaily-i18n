@@ -65,6 +65,11 @@ features:
     desc: "Quaily 對科學和工程寫作有很好的支持，很容易就可以在你的文章中創建公式和各類圖示。"
     link_text: "看看效果"
     link: "https://quaily.com/quail-zh/p/extended-markdown-syntax#equation-formula"
+  brand:
+    title: "每個創作者都擁有自己的品牌"
+    desc: "Quaily 認為每個創作者都值得擁有一個獨特的身份。用自定義域名、Logo 等來塑造你的品牌"
+    link_text: "品牌化你的 Newsletter"
+    link: "https://quaily.com/quail-zh/p/at-quaily-every-creator-can-build-their-brand"
 
 features_grid:
   title: "更多衍生服務與功能"

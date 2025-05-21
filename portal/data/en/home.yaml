@@ -65,6 +65,11 @@ features:
     desc: "Quaily has excellent support for scientific and engineering writing. It's easy to create equations and diagrams in your posts."
     link_text: "Check out the Syntax"
     link: "https://quaily.com/blog/p/extended-markdown-syntax#equation-formula"
+  brand:
+    title: "Every Creator Own Their Own Brand"
+    desc: "Quaily thought every creator deserves a unique identity. You can brand your newsletter with your own logo, domain, and more."
+    link_text: "Brand yourself"
+    link: "https://quaily.com/blog/p/at-quaily-every-creator-can-build-their-brand"
 
 features_grid:
   title: "Derivative services and features"

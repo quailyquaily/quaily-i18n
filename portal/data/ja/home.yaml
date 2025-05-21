@@ -66,6 +66,11 @@ features:
     desc: "Quailyは科学的および工学的執筆に優れたサポートを提供します。投稿で数式と図を簡単に作成できます。"
     link_text: "構文を確認"
     link: "https://quaily.com/quaily-ja/p/extended-markdown-syntax#equation-formula"
+  brand:
+    title: "自分のブランドを持つ"
+    desc: "Quailyは、自分のブランドを持つことを考えました。自分のドメイン、ロゴを使って、ニュースレターをブランド化します。"
+    link_text: "ブランドを構築する"
+    link: "https://quaily.com/quaily-ja/p/at-quaily-every-creator-can-build-their-brand"
 
 features_grid:
   title: "派生サービスと機能"
