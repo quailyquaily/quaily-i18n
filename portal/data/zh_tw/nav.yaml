@@ -1,7 +1,7 @@
 menu:
   items:
     - label: "探索"
-      url: "/explore/zh_tw/trending"
+      url: "/explore/zh-tw/trending"
       description: "探索 Quaily 的最新和最受欢迎的故事"
     - label: "部落格"
       url: "/quail-zh"
