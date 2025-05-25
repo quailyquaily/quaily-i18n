@@ -58,6 +58,12 @@ other = "ダウンロードする"
 [ExportDataEmailBody]
 other = "データのエクスポートが完了しました。ダウンロードできます。 <br />ダウンロードリンクは24時間で無効になります。"
 
+[ExploreTitle]
+other = "Quailyを探す"
+
+[ExploreDescription]
+other = "Quailyで興味深いものや便利なものを探す"
+
 [ExploreCategoryLabel]
 other = "分類"
 

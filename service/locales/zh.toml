@@ -55,6 +55,12 @@ other = "您的数据已准备好了"
 [ExportDataEmailAction]
 other = "下载数据"
 
+[ExploreTitle]
+other = "探索 Quaily"
+
+[ExploreDescription]
+other = "在 Quaily 探索有趣或實用的內容"
+
 [ExportDataEmailBody]
 other = "您的数据已准备好了。您可以立即下载。 <br />请注意，下载链接將在 24 小时后失效。"
 

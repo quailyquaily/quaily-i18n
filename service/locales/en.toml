@@ -58,6 +58,12 @@ other = "Download Data"
 [ExportDataEmailBody]
 other = "Your data is ready. You can download it now. <br />Please note that the download link will expire in 24 hours."
 
+[ExploreTitle]
+other = "Explore Quaily"
+
+[ExploreDescription]
+other = "Explore Something Interesting or Useful on Quaily"
+
 [ExploreCategoryLabel]
 other = "Category"
 

@@ -58,6 +58,12 @@ other = "下載資料"
 [ExportDataEmailBody]
 other = "您的資料已準備好了。您可以立即下載。 <br />請注意，下載鏈接將在 24 小時後失效。"
 
+[ExploreTitle]
+other = "探索 Quaily"
+
+[ExploreDescription]
+other = "在 Quaily 探索有趣或實用的內容"
+
 [ExploreCategoryLabel]
 other = "分類"
 
