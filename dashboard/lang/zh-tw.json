@@ -278,7 +278,7 @@
   "error.msg.20017": "Discord 邀請網址無效",
   "error.msg.20018": "Slack 邀請網址無效",
   "error.msg.20019": "無法驗證 Discord 頻道，找不到該頻道",
-  "error.msg.20020": "無法驗證 Discord 頻道，找不到該指南",
+  "error.msg.20020": "無法驗證 Discord 頻道，找不到該公会",
   "error.msg.20021": "無法驗證 Discord 頻道，Quaily 機器人不在公會中",
   "error.msg.20022": "無法驗證 Discord 頻道，Quaily 機器人沒有足夠的權限發送訊息",
   "error.msg.30001": "該文章別名已被使用，請嘗試另一個。",
