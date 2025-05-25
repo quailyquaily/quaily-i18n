@@ -518,6 +518,8 @@
   "list.domain_settings.enable.desc": "I domini personalizzati ti permettono di servire il tuo sito da un dominio diverso da quaily.com o quail.cc.",
   "list.domain_settings.guide": "Leggi la guida per configurare domini personalizzati.",
   "list.domain_settings.guide_link": "https://docs.quaily.com/writer/domain-settings.html",
+  "list.domain_settings.sitemap_url": "URL della Sitemap",
+  "list.domain_settings.sitemap_url.hint": "Puoi copiare e inviare questo URL ai motori di ricerca.",
   "list.email_settings": "Impostazioni email",
   "list.email_settings.deny_list": "Fornitore di posta elettronica nega canale",
   "list.email_settings.deny_list_hint": "L'email dal canale di rifiuto verrà respinta quando ti iscrivi al tuo canale. Diviso da virgola, ad esempio qq.com, 163.com.",

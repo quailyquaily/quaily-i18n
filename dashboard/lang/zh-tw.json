@@ -518,6 +518,8 @@
   "list.domain_settings.enable.desc": "自訂域名允許你從除了 quaily.com 或 quail.cc 之外的域名上提供你的網站。",
   "list.domain_settings.guide": "閱讀配置自訂域名的指南。",
   "list.domain_settings.guide_link": "https://docs.quaily.com/writer/domain-settings.html",
+  "list.domain_settings.sitemap_url": "網站地圖 URL",
+  "list.domain_settings.sitemap_url.hint": "可以複製並提交此 URL 給搜索引擎。",
   "list.email_settings": "郵件設置",
   "list.email_settings.deny_list": "郵件提供商黑名單",
   "list.email_settings.deny_list_hint": "訂當你訂閱頻道時，來自黑名單的電子郵件將被拒絕。按逗號分隔，例如 qq.com，163.com",

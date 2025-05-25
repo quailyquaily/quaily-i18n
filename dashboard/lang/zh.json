@@ -518,6 +518,8 @@
   "list.domain_settings.enable.desc": "自定义域名允许你从除了 quaily.com 或 quail.cc 之外的域名上提供你的网站。",
   "list.domain_settings.guide": "阅读配置自定义域名的指南。",
   "list.domain_settings.guide_link": "https://docs.quaily.com/writer/domain-settings.html",
+  "list.domain_settings.sitemap_url": "站点地图 URL",
+  "list.domain_settings.sitemap_url.hint": "可以复制并提交此 URL 给搜索引擎。",
   "list.email_settings": "邮件设置",
   "list.email_settings.deny_list": "邮件提供商黑名单",
   "list.email_settings.deny_list_hint": "当你订阅频道时，来自黑名单的电子邮件将被拒绝。按逗号分隔，例如 qq.com，163.com",

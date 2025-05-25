@@ -558,6 +558,8 @@
   "list.domain_settings.enable.desc": "Custom domains allow you to serve your site from a domain other than quaily.com or quail.cc.",
   "list.domain_settings.guide": "Read the guide to configuring custom domains.",
   "list.domain_settings.guide_link": "https://docs.quaily.com/writer/domain-settings.html",
+  "list.domain_settings.sitemap_url": "Sitemap URL",
+  "list.domain_settings.sitemap_url.hint": "You can copy and submit this URL to search engine.",
   "list.email_settings": "Email Settings",
   "list.email_settings.deny_list": "Email Provider Deny Channel",
   "list.email_settings.deny_list_hint": "The email from the deny channel will be rejected when subscribing to your channel. Split by comma, e.g. qq.com, 163.com. ",

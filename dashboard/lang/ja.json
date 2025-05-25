@@ -518,6 +518,8 @@
   "list.domain_settings.enable.desc": "カスタムドメインを使用すると、quaily.com またはquail.cc以外のドメインからサイトを提供できます。",
   "list.domain_settings.guide": "カスタムドメインの設定ガイドを読んでください。",
   "list.domain_settings.guide_link": "https://docs.quaily.com/writer/domain-settings.html を日本語に翻訳すると、次のようになります。",
+  "list.domain_settings.sitemap_url": "サイトマップURL",
+  "list.domain_settings.sitemap_url.hint": "このURLをコピーして検索エンジンに提出できます。",
   "list.email_settings": "メールの設定",
   "list.email_settings.deny_list": "メールプロバイダー拒否チャンネル",
   "list.email_settings.deny_list_hint": "拒否チャンネルに含まれるメールは、チャンネルに購読しようとする際に拒否されます。カンマで区切って入力してください。例: qq.com, 163.com。",
