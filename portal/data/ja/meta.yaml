@@ -10,3 +10,27 @@ notfound:
   title: "見つかりません"
   subtitle: "お探しのページは見つかりません"
   description: "Quaily は、モダンで AI ベースのニュースレターサービスです。メール、telegram、discord など、複数のプッシュチャネルをサポートしています。Obsidian や VScode などの人気のあるエディターとの統合も良好です。"
+opensource:
+  title: "Quaily Open Source"
+  subtitle: "Quaily のオープンソースプロジェクト"
+  description: "Quaily は、オープンソースを推しています。以下にそのプロジェクトを示します。"
+conduct:
+  title: "コミュニティガイドライン"
+  subtitle: "Quaily コミュニティガイドライン"
+  description: "Quaily は、インクルーシブ性、尊重、そして理解を重視しています。この精神で、Quaily コミュニティガイドラインを提示します。"
+press:
+  title: "Quaily プレス"
+  subtitle: "Quaily のプレス資料"
+  description: "Quaily のプレス資料"
+privacy:
+  title: "Quaily プライバシーポリシー"
+  subtitle: "Quaily のプライバシーポリシー"
+  description: "Quaily のプライバシーポリシー"
+tom:
+  title: "Quaily メンバーシップ利用規約"
+  subtitle: "Quaily のメンバーシップ利用規約"
+  description: "Quaily のメンバーシップ利用規約"
+tos:
+  title: "Quaily 利用規約"
+  subtitle: "Quaily の利用規約"
+  description: "Quaily の利用規約"

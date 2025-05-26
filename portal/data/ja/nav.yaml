@@ -8,7 +8,7 @@ menu:
       description: "Quailyの公式ブログ"
       target: "_self"
     - label: "ドキュメント"
-      url: "https://docs.quaily.com/en/writer/"
+      url: "https://docs.quaily.com/writer/"
       description: "Quailyのドキュメント"
       target: "_blank"
     - label: "Discord"

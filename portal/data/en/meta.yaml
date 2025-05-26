@@ -10,3 +10,27 @@ notfound:
   title: "Not found"
   subtitle: "The page you're looking for doesn't exist"
   description: "Quaily is an AI-powered creator service, supports multiple sending channels, including email, telegram, and discord, integrate with Obsidian."
+opensource:
+  title: "Quaily Open Source"
+  subtitle: "Quaily's open source projects"
+  description: "Quaily is committed to open source and has open sourced a number of projects. You can find them below."
+conduct:
+  title: "Quaily Community Guidelines"
+  subtitle: "Quaily's code of conduct"
+  description: "Our community thrives on inclusivity, respect, and understanding. In this spirit, we present our community guidelines, aimed at nurturing a safe and welcoming space for all."
+press:
+  title: "Quaily Press"
+  subtitle: "Quaily's press materials"
+  description: "Quaily's press materials"
+privacy:
+  title: "Quaily Privacy Policy"
+  subtitle: "Quaily's privacy policy"
+  description: "Quaily's privacy policy"
+tom:
+  title: "Quaily Membership Terms of Service"
+  subtitle: "Quaily's membership terms of service"
+  description: "Quaily's membership terms of service"
+tos:
+  title: "Quaily Terms of Service"
+  subtitle: "Quaily's terms of service"
+  description: "Quaily's terms of service"

@@ -10,3 +10,27 @@ notfound:
   title: "找不到页面"
   subtitle: "正在寻找的页面不存在"
   description: Quaily 是一个现代化的，基于 AI 的，新闻订阅服务。它支持多种推送渠道，包括邮件，telegram 和 discord。它与流行的编辑器（如 Obsidian 和 VScode）有很好的集成。
+opensource:
+  title: "Quaily 开源项目"
+  subtitle: "Quaily 的开源项目"
+  description: "Quaily 是一个现代化的，基于 AI 的，新闻订阅服务。它支持多种推送渠道，包括邮件，telegram 和 discord。它与流行的编辑器（如 Obsidian 和 VScode）有很好的集成。"
+conduct:
+  title: "Quaily 社区指南"
+  subtitle: "Quaily 社区指南"
+  description: "Quaily 社区致力于包容性、尊重和理解。在这个精神的指导下，我们提出了社区指南，旨在为所有人营造一个安全且欢迎的空间。"
+press:
+  title: "Quaily Press"
+  subtitle: "Quaily Press 资料"
+  description: "Quaily Press 资料，包括图标、logo、海报等"
+privacy:
+  title: "Quaily 隐私政策"
+  subtitle: "Quaily 的隐私政策"
+  description: "Quaily 的隐私政策"
+tom:
+  title: "Quaily 会员服务条款"
+  subtitle: "Quaily 的会员服务条款"
+  description: "Quaily 的会员服务条款"
+tos:
+  title: "Quaily 服务条款"
+  subtitle: "Quaily 的服务条款"
+  description: "Quaily 的服务条款"
