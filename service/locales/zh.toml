@@ -32,7 +32,7 @@ other = "升级然后阅读"
 other = "剩余 {{.Percent}}% 仅限付费会员阅读。升级后阅读全文。"
 
 [PremiumSubscriptionNotificationEmailSubject]
-other = "您有新付费订阅会员，订阅了 {{.Title}}"
+other = "新付费订阅会员订阅了 {{.Title}}"
 
 [PremiumSubscriptionNotificationEmailBody]
 other = "<div>订阅者：{{.Email}}</div><div>过期日：{{.Expiry}}</div>"
@@ -41,7 +41,7 @@ other = "<div>订阅者：{{.Email}}</div><div>过期日：{{.Expiry}}</div>"
 other = "前往后台"
 
 [SubscriptionExpiredNotificationEmailSubject]
-other = "您的付费订阅会员已过期"
+other = "付费订阅会员已过期"
 
 [SubscriptionExpiredNotificationEmailBody]
 other = "<div>邮件组：{{.Title}}</div><div>过期日：{{.Expiry}}</div>"
@@ -50,7 +50,7 @@ other = "<div>邮件组：{{.Title}}</div><div>过期日：{{.Expiry}}</div>"
 other = "续订"
 
 [ExportDataEmailSubject]
-other = "您的数据已准备好了"
+other = "数据已准备好了"
 
 [ExportDataEmailAction]
 other = "下载数据"
@@ -59,22 +59,22 @@ other = "下载数据"
 other = "探索 Quaily"
 
 [ExploreDescription]
-other = "在 Quaily 探索有趣或實用的內容"
+other = "在 Quaily 的 {{.Topic}} 话题探索有趣或實用的文章"
 
 [ExportDataEmailBody]
-other = "您的数据已准备好了。您可以立即下载。 <br />请注意，下载链接將在 24 小时后失效。"
+other = "数据已准备好了，可以立即下载。 <br />请注意，下载链接將在 24 小时后失效。"
 
 [ExploreCategoryLabel]
 other = "分类"
 
 [ExploreCategoryLabelTrending]
-other = "热门"
+other = "热门文章"
 
 [ExploreCategoryLabelPremium]
-other = "热门会员内容"
+other = "热门会员文章"
 
 [ExploreCategoryLabelFree]
-other = "热门公开内容"
+other = "热门公开文章"
 
 [ExploreEmtpyHint]
 other = "沒有文章"

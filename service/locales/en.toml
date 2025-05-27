@@ -62,7 +62,7 @@ other = "Your data is ready. You can download it now. <br />Please note that the
 other = "Explore Quaily"
 
 [ExploreDescription]
-other = "Explore Something Interesting or Useful on Quaily"
+other = "Explore something interesting or useful on topic {{.Topic}} at Quaily"
 
 [ExploreCategoryLabel]
 other = "Category"

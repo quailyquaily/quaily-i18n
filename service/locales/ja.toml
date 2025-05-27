@@ -62,19 +62,19 @@ other = "データのエクスポートが完了しました。ダウンロー�
 other = "Quailyを探す"
 
 [ExploreDescription]
-other = "Quailyで興味深いものや便利なものを探す"
+other = "Quailyで興味深いものや便利なものを{{.Topic}}で探す"
 
 [ExploreCategoryLabel]
 other = "分類"
 
 [ExploreCategoryLabelTrending]
-other = "トレンド"
+other = "トレンド記事"
 
 [ExploreCategoryLabelPremium]
-other = "トップ有料"
+other = "トップ有料記事"
 
 [ExploreCategoryLabelFree]
-other = "トップ無料"
+other = "トップ無料記事"
 
 [ExploreEmtpyHint]
 other = "まだ記事がありません"
