@@ -22,6 +22,9 @@ other = "Hello! Thank you for subscribing to my newsletter. <br />I will share m
 [GreetingEmailAction]
 other = "View Latest Posts"
 
+[ListAboutTitle]
+other = "About {{.Title}}"
+
 [PostEmailActionLabel]
 other = "Read Original"
 

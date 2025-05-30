@@ -22,6 +22,9 @@ other = "こんにちは！この度はメールグループへのご登録、�
 [GreetingEmailAction]
 other = "記事を見る"
 
+[ListAboutTitle]
+other = "{{.Title}}について"
+
 [PostEmailActionLabel]
 other = "全文を読む"
 

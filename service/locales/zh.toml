@@ -22,6 +22,9 @@ other = "你好呀！感谢你订阅我的邮件组。 <br />我会和你分享�
 [GreetingEmailAction]
 other = "查看历史文章"
 
+[ListAboutTitle]
+other = "关于 {{.Title}}"
+
 [PostEmailActionLabel]
 other = "阅读原文"
 

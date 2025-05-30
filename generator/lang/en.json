@@ -65,6 +65,7 @@
   "list.packs": "Packs",
   "list.about.channel.title": "About Channel",
   "list.about.authors.title": "Authors",
+  "list.about.authors.no_bio": "The author is too lazy to write a bio",
   "list.about.metrics.title": "Metrics",
   "list.about.metrics.total_subscribers": "Subscribers",
   "list.about.metrics.total_posts": "Posts",
