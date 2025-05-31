@@ -1,0 +1,134 @@
+[EmailSenderName]
+other = "{{.SiteName}}"
+
+[LoginEmailSubject]
+other = "Connexion à {{.SiteName}}"
+
+[LoginEmailBody]
+other = "Vous vous connectez à {{.SiteName}}. S'il ne s'agit pas de votre propre opération, veuillez nous contacter."
+
+[ReplaceEmailEmailSubject]
+other = "Vous remplacez l'adresse e-mail de {{.SiteName}}"
+
+[ReplaceEmailEmailBody]
+other = "Vous remplacez l'adresse e-mail de {{.SiteName}}. S'il ne s'agit pas de votre propre opération, veuillez nous contacter."
+
+[GreetingEmailSubject]
+other = "Merci pour votre inscription !"
+
+[GreetingEmailBody]
+other = "Bonjour ! Merci de vous être abonné(e) à ma newsletter. <br />Je partagerai avec vous mes dernières réflexions et idées. <br />J'espère que vous l'apprécierez."
+
+[GreetingEmailAction]
+other = "Voir les derniers articles"
+
+[ListAboutTitle]
+other = "À propos de {{.Title}}"
+
+[PostEmailActionLabel]
+other = "Lire l'original"
+
+[PostEmailActionLabelPurchase]
+other = "Passer à Premium et lire"
+
+[PostEmailPurchaseHint]
+other = "Les {{.Percent}}% restants sont réservés aux membres Premium. Passez à Premium pour lire l'article complet."
+
+[PremiumSubscriptionNotificationEmailSubject]
+other = "Nouvel abonné Premium à {{.Title}}"
+
+[PremiumSubscriptionNotificationEmailBody]
+other = "<div>Abonné : {{.Email}}</div><div>Expiration : {{.Expiry}}</div>"
+
+[PremiumSubscriptionNotificationEmailAction]
+other = "Voir le tableau de bord"
+
+[SubscriptionExpiredNotificationEmailSubject]
+other = "Votre abonnement Premium à {{.Title}} a expiré"
+
+[SubscriptionExpiredNotificationEmailBody]
+other = "<div>Chaîne : {{.Title}}</div><div>Expiration : {{.Expiry}}</div>"
+
+[SubscriptionExpiredNotificationEmailAction]
+other = "Renouveler l'abonnement"
+
+[ExportDataEmailSubject]
+other = "Vos données de chaîne sont prêtes"
+
+[ExportDataEmailAction]
+other = "Télécharger les données"
+
+[ExportDataEmailBody]
+other = "Vos données sont prêtes. Vous pouvez les télécharger maintenant. <br />Veuillez noter que le lien de téléchargement expirera dans 24 heures."
+
+[ExploreTitle]
+other = "Explorer Quaily"
+
+[ExploreDescription]
+other = "Explorez quelque chose d'intéressant ou d'utile sur le sujet {{.Topic}} sur Quaily"
+
+[ExploreCategoryLabel]
+other = "Catégorie"
+
+[ExploreCategoryLabelTrending]
+other = "Tendances"
+
+[ExploreCategoryLabelPremium]
+other = "Top Premium"
+
+[ExploreCategoryLabelFree]
+other = "Top Gratuit"
+
+[ExploreEmtpyHint]
+other = "Aucun article pour le moment"
+
+[ExploreLoginLabel]
+other = "Soyez le premier"
+
+[ReportEmailSubject]
+other = "Rapport quotidien pour {{.Title}}"
+
+[ReportEmailMetricTitle]
+other = "Statistiques quotidiennes"
+
+[ReportEmailMetricChanges]
+other = "Changements"
+
+[ReportEmailMetricPrevious]
+other = "Précédent"
+
+[ReportEmailMetricCurrent]
+other = "Actuel"
+
+[ReportEmailMetricPosts]
+other = "Articles"
+
+[ReportEmailMetricPremiumPosts]
+other = "Articles Premium"
+
+[ReportEmailMetricSubscribers]
+other = "Abonnés"
+
+[ReportEmailMetricPremiumSubscribers]
+other = "Abonnés Premium"
+
+[ReportEmailMetricReads]
+other = "Lectures"
+
+[ReportEmailMetricViews]
+other = "Vues"
+
+[ReportEmailNewMembersTitle]
+other = "Nouveaux membres"
+
+[ReportEmailExpiringMembersTitle]
+other = "Membres Premium expirant bientôt"
+
+[ReportEmailLabelName]
+other = "Nom"
+
+[ReportEmailLabelEmail]
+other = "E-mail"
+
+[ReportEmailLabelExpiry]
+other = "Expiration"
