@@ -25,6 +25,9 @@ other = "查看历史文章"
 [ListAboutTitle]
 other = "关于 {{.Title}}"
 
+[ListAboutDescription]
+other = "关于 {{.Title}}: {{.Desc}}"
+
 [PostEmailActionLabel]
 other = "阅读原文"
 

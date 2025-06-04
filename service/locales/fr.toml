@@ -25,6 +25,9 @@ other = "Voir les derniers articles"
 [ListAboutTitle]
 other = "À propos de {{.Title}}"
 
+[ListAboutDescription]
+other = "À propos de {{.Title}}: {{.Desc}}"
+
 [PostEmailActionLabel]
 other = "Lire l'original"
 

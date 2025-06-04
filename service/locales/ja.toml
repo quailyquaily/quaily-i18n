@@ -25,6 +25,9 @@ other = "記事を見る"
 [ListAboutTitle]
 other = "{{.Title}}について"
 
+[ListAboutDescription]
+other = "{{.Title}}について：{{.Desc}}"
+
 [PostEmailActionLabel]
 other = "全文を読む"
 

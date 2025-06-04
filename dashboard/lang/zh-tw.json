@@ -884,6 +884,7 @@
   "post.crosspublish_dialog.do": "跨頻道發佈",
   "post.crosspublish_dialog.lang.en": "English",
   "post.crosspublish_dialog.lang.ja": "日本語",
+  "post.crosspublish_dialog.lang.zh": "简体中文",
   "post.crosspublish_dialog.lang.zh-hans": "简体中文",
   "post.crosspublish_dialog.lang.zh-hant": "繁體中文",
   "post.crosspublish_dialog.result_status.0": "待處理",
