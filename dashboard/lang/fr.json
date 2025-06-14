@@ -481,7 +481,7 @@
   "list.comment_settings.comment_strategy.subscriber_only": "Abonnés uniquement",
   "list.cooperator_settings": "Paramètres du coopérateur",
   "list.cooperator_settings.add": "Ajouter",
-  "list.cooperator_settings.hint": "Les collaborateurs peuvent rédiger des articles et mettre à jour Bower",
+  "list.cooperator_settings.hint": "Les collaborateurs peuvent rédiger des articles",
   "list.cooperator_settings.pick_cooperator_title": "Choisissez un abonné",
   "list.create": "Créer un canal",
   "list.crosspublish_settings": "Paramètres de publication croisée",
