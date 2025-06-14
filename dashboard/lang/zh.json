@@ -877,6 +877,8 @@
   "post.autosave.text_saved": "已保存",
   "post.autosave.text_saving": "正在保存...",
   "post.cover_image": "封面图片",
+  "post.cover_image.choose_image": "选择图片",
+  "post.cover_image.choose_image.hint": "该图片将作为文章封面显示。在文章列表中会裁剪为正方形，在文章页面呈现横向比例，在推荐文章中以竖向展示。",
   "post.cover_image.placeholder": "为此文章设置封面图片。",
   "post.cover_image.unsplash": "在 Unsplash 上搜索",
   "post.crosspublish_dialog.close": "关闭",

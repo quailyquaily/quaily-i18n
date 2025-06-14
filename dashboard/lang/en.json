@@ -874,6 +874,8 @@
   "post.cover_image": "Cover Image",
   "post.cover_image.placeholder": "Set a cover image for this post",
   "post.cover_image.unsplash": "Search on Unsplash",
+  "post.cover_image.choose_image": "Choose Image",
+  "post.cover_image.choose_image.hint": "This image will appear in the post as a cover image. It will be cropped to square in post list, landscape in post page, and portrait in recommended posts.",
   "post.delete_dialog.subtitle": "This action cannot be undone. \"{name}\" will be unpublished and removed from the channel permanently.",
   "post.delete_dialog.title": "Are you sure to delete this post?",
   "post.deliver_dialog.enable_scheduled": "Enable Scheduled Sending",

@@ -869,6 +869,8 @@
   "post.autosave.text_saved": "Salvato",
   "post.autosave.text_saving": "Salvataggio in corso...",
   "post.cover_image": "Immagine di copertina",
+  "post.cover_image.choose_image": "Scegli immagine",
+  "post.cover_image.choose_image.hint": "Questa immagine apparirà nel post come copertina. Verrà ritagliata in formato quadrato nella lista dei post, in orizzontale nella pagina del post e in verticale nei post consigliati.",
   "post.cover_image.placeholder": "Imposta un'immagine di copertina per questo post.",
   "post.cover_image.unsplash": "Cerca su Unsplash.",
   "post.crosspublish_dialog.close": "Vicino",

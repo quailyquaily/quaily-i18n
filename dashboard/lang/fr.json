@@ -869,6 +869,8 @@
   "post.autosave.text_saved": "Sauvegardé",
   "post.autosave.text_saving": "Enregistrement en cours…",
   "post.cover_image": "Image de couverture",
+  "post.cover_image.choose_image": "Choisir une image",
+  "post.cover_image.choose_image.hint": "Cette image apparaîtra dans l'article en tant qu'image de couverture. Elle sera recadrée en carré dans la liste des articles, en format paysage sur la page de l'article et en format portrait dans les articles recommandés.",
   "post.cover_image.placeholder": "Définissez une image de couverture pour ce message",
   "post.cover_image.unsplash": "Rechercher sur Unsplash",
   "post.crosspublish_dialog.close": "Fermer",
