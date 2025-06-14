@@ -481,7 +481,7 @@
   "list.comment_settings.comment_strategy.subscriber_only": "僅限訂閱者",
   "list.cooperator_settings": "聯合作者設置",
   "list.cooperator_settings.add": "添加",
-  "list.cooperator_settings.hint": "合作者可以在 bower 上撰寫文章並進行更新",
+  "list.cooperator_settings.hint": "合作者可以撰寫文章",
   "list.cooperator_settings.pick_cooperator_title": "選擇一位訂閱者",
   "list.create": "創建頻道",
   "list.crosspublish_settings": "跨頻道發佈設置",
