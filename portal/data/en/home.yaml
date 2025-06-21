@@ -87,6 +87,7 @@ features_grid:
       subtitle: "Use your own domain name for your publication."
     - title: "Cooperation"
       subtitle: "Invite your friends to create together, and share the revenue."
+      link: "https://quaily.com/blog/p/writing-is-better-together-introducing-co-authors-on-quaily"
     - title: "Crypto Friendly"
       subtitle: "Accept crypto payments from your followers."
     - title: "CLI Publish"
@@ -161,3 +162,7 @@ stat:
 
 badges:
   title: "Check out our badges"
+
+media:
+  title: "Media Coverage"
+  subtitle: "Our journey in the media spotlight"

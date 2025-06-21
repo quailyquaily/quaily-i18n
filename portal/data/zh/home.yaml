@@ -87,6 +87,7 @@ features_grid:
       subtitle: "使用自己的域名访问你的页面"
     - title: "协作模式"
       subtitle: "邀请朋友一起创作"
+      link: "https://quaily.com/quail-zh/p/writing-is-better-together-introducing-co-authors-on-quaily"
     - title: "Crypto友好"
       subtitle: "支持加密货币支付"
     - title: "CLI 工具"
@@ -160,3 +161,8 @@ stat:
 
 badges:
   title: "Check out our badges"
+
+media:
+  title: "媒体报道"
+  subtitle: "Quaily 的旅程记录"
+

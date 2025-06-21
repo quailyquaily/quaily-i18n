@@ -1,0 +1,25 @@
+items:
+  - title: "魅力的な報酬体系、コンテンツクリエイター支援プラットフォーム「Quaily」の強みを徹底解説"
+    description: "コンテンツクリエイターが自身の文章スタイルをAIに学習させ、新しいコンテンツを効率的に生成・収益化できるプラットフォーム「Quaily」について解説しています。"
+    url: "https://coinpost.jp/?p=610613"
+    image: "coinpost.webp"
+    height: 14
+    image_bg_color: "#2ebdea"
+  - title: "The New Tools Rewriting the Web"
+    description: "How Quaily are reshaping web publishing, with Quaily automating content creation and distribution by generating summaries, tweets, and translations from a single post."
+    url: "https://hackernoon.com/the-new-tools-rewriting-the-web"
+    image: "hackernoon.webp"
+    image_bg_color: "#0f0"
+    height: 20
+  - title: "AI Tools Can Now Write Like You — Here’s How That Changes Everything"
+    description: "How Quaily's AI function quail-cli can analyze your existing writing to generate new, contextually relevant content at scale."
+    url: "https://hackernoon.com/ai-tools-can-now-write-like-youheres-how-that-changes-everything"
+    image: "hackernoon.webp"
+    image_bg_color: "#0f0"
+    height: 20
+  - title: "Apptisan #45 - Quaily: A Modern, AI Powered Newsletter Service"
+    description: "Quaily, an AI-powered newsletter tool that helps writers by offering a clean, Markdown-based interface and features like multi-channel distribution, Obsidian plugin, and AI assistance."
+    url: "https://apptisan.substack.com/p/quaily"
+    image: "apptisan.webp"
+    image_bg_color: "#ff6719"
+    height: 24

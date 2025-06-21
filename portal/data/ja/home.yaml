@@ -88,6 +88,7 @@ features_grid:
       subtitle: "独自のドメインを使用してQuailyのサブドメインをカスタマイズします。"
     - title: "共同執筆"
       subtitle: "他のクリエイターと共同で執筆し、編集します。"
+      link: "https://quaily.com/quaily-ja/p/writing-is-better-together-introducing-co-authors-on-quaily"
     - title: "暗号通貨"
       subtitle: "暗号通貨での支払いを受け入れます。"
     - title: "CLI"
@@ -161,3 +162,7 @@ stat:
 
 badges:
   title: "Check out our badges"
+
+media:
+  title: "メディア報道"
+  subtitle: "Quailyの旅の記録"
