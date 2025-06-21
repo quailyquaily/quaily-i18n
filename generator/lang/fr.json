@@ -93,6 +93,8 @@
   "post.meta.published": "Publié le",
   "post.meta.tags": "Tags",
   "post.share.title": "Aimez-vous ce post ? Partagez-le !",
+  "post.users.written_by_prefix": "écrit par",
+  "post.users.written_by_suffix": "",
   "post.stat.views": "{count} Vues",
   "post_navigation.next_post": "Article plus récent",
   "post_navigation.prev_post": "Article précédent",
