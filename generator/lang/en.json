@@ -89,7 +89,7 @@
   "post.meta.create_with_ai_type.human.full_text": "Created by human, not by AI",
   "post.meta.create_with_ai_type.ai.full_text": "Created by AI, not by human",
   "post.meta.create_with_ai_type.human_and_ai.full_text": "Created by human and AI, together!",
-  "post.users.written_by_prefix": "By ",
+  "post.users.written_by_prefix": "By ",
   "post.users.written_by_suffix": "",
   "post.stat.views": "{count} Views",
   "post_navigation.next_post": "Newer Post",

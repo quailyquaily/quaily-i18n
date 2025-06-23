@@ -94,7 +94,7 @@
   "post.meta.tags": "标签",
   "post.share.title": "喜欢本文吗？分享给朋友看看！",
   "post.users.written_by_prefix": "",
-  "post.users.written_by_suffix": "撰写",
+  "post.users.written_by_suffix": " 撰写",
   "post.stat.views": "{count} 浏览",
   "post_navigation.next_post": "新一篇",
   "post_navigation.prev_post": "旧一篇",
