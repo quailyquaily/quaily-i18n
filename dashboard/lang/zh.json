@@ -533,6 +533,7 @@
   "list.domain_settings.guide": "阅读配置自定义域名的指南。",
   "list.domain_settings.guide_link": "https://docs.quaily.com/writer/domain-settings.html",
   "list.domain_settings.sending_domain.address": "自定义发送地址",
+  "list.domain_settings.sending_domain.address.placeholder": "自定义发送地址",
   "list.domain_settings.sending_domain.enable": "自定义发送域名",
   "list.domain_settings.sending_domain.enable.desc": "使用自有域名发送邮件。",
   "list.domain_settings.sending_domain.guide": "此功能仅限邀请制，请点击此处联系我们。",

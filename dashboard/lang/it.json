@@ -533,6 +533,7 @@
   "list.domain_settings.guide": "Leggi la guida per configurare domini personalizzati.",
   "list.domain_settings.guide_link": "https://docs.quaily.com/writer/domain-settings.html",
   "list.domain_settings.sending_domain.address": "Indirizzo di invio personalizzato",
+  "list.domain_settings.sending_domain.address.placeholder": "Indirizzo di invio personalizzato",
   "list.domain_settings.sending_domain.enable": "Dominio di invio personalizzato",
   "list.domain_settings.sending_domain.enable.desc": "Utilizza il tuo dominio per inviare email.",
   "list.domain_settings.sending_domain.guide": "Questa funzionalità è disponibile solo su invito, tocca qui per contattarci.",

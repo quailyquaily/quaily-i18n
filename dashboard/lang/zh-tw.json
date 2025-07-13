@@ -533,6 +533,7 @@
   "list.domain_settings.guide": "閱讀配置自訂域名的指南。",
   "list.domain_settings.guide_link": "https://docs.quaily.com/writer/domain-settings.html",
   "list.domain_settings.sending_domain.address": "自訂寄件地址",
+  "list.domain_settings.sending_domain.address.placeholder": "自訂寄件位址",
   "list.domain_settings.sending_domain.enable": "自訂發送網域",
   "list.domain_settings.sending_domain.enable.desc": "使用自己的網域地址發送電子郵件。",
   "list.domain_settings.sending_domain.guide": "此功能僅限邀請使用，請點此聯絡我們。",

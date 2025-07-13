@@ -533,6 +533,7 @@
   "list.domain_settings.guide": "カスタムドメインの設定ガイドを読んでください。",
   "list.domain_settings.guide_link": "https://docs.quaily.com/writer/domain-settings.html を日本語に翻訳すると、次のようになります。",
   "list.domain_settings.sending_domain.address": "カスタム送信アドレス",
+  "list.domain_settings.sending_domain.address.placeholder": "カスタム送信アドレス",
   "list.domain_settings.sending_domain.enable": "独自の送信ドメイン",
   "list.domain_settings.sending_domain.enable.desc": "ご自身のドメインアドレスを使ってメールを送信できます。",
   "list.domain_settings.sending_domain.guide": "この機能は招待制となっております。お問い合わせは、こちらをタップしてください。",
