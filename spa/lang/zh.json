@@ -362,6 +362,8 @@
   "upgrade_view.no_refund_hint": "* 高级会员计划不予退款。",
   "upgrade_view.non_member_1": "普通会员",
   "upgrade_view.non_member_2": "还不是高级会员。",
+  "upgrade_view.order_canceled_or_refunded": "订单已取消或退款。",
+  "upgrade_view.order_error": "订单无法完成，请重试。",
   "upgrade_view.priced_in_crypto.desc": "{name}接受加密货币支付。",
   "upgrade_view.priced_in_crypto.title": "以加密货币定价？",
   "upgrade_view.subtitle": "订阅该频道的高级会员，解锁无限可能性！",

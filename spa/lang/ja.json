@@ -361,6 +361,8 @@
   "upgrade_view.no_refund_hint": "* メンバーシッププランの返金は受け付けておりません。",
   "upgrade_view.non_member_1": "通常の購読者",
   "upgrade_view.non_member_2": "まだプレミアムサブスクライバーではありません。",
+  "upgrade_view.order_canceled_or_refunded": "注文がキャンセルまたは返金されました。",
+  "upgrade_view.order_error": "注文の処理に失敗しました。もう一度お試しください。",
   "upgrade_view.priced_in_crypto.desc": "{name}は仮想通貨の払うできます。",
   "upgrade_view.priced_in_crypto.title": "仮想通貨で計算？",
   "upgrade_view.subtitle": "プレミアム購読でさらなる可能性を引き出しましょう！",

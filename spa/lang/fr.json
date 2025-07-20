@@ -358,6 +358,8 @@
   "upgrade_view.no_refund_hint": "* Aucun remboursement ne sera effectué pour le plan d'abonnement.",
   "upgrade_view.non_member_1": "Abonné classique",
   "upgrade_view.non_member_2": "Vous n'êtes pas encore abonné Premium",
+  "upgrade_view.order_canceled_or_refunded": "La commande a été annulée ou remboursée.",
+  "upgrade_view.order_error": "Échec du traitement de la commande, veuillez réessayer.",
   "upgrade_view.priced_in_crypto.desc": "{name} accepte les paiements en cryptomonnaies.",
   "upgrade_view.priced_in_crypto.title": "Tarif en crypto-monnaie ?",
   "upgrade_view.subtitle": "Débloquez tout votre potentiel avec votre abonnement premium!",

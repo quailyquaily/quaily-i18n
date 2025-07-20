@@ -365,6 +365,8 @@
   "upgrade_view.crypto_disabled_hint": "Due to system upgrade, cryptocurrency payment is temporarily suspended.",
   "upgrade_view.disabled.title": "No Premium Subscription Plan",
   "upgrade_view.disabled.subtitle": "The channel owner disable the premium subscription plan for some reasons",
+  "upgrade_view.order_error": "Failed to fill the order, please try again.",
+  "upgrade_view.order_canceled_or_refunded": "The order has been canceled or refunded.",
   "users.social_ids.empty_hint": "No social IDs",
   "users.lists.empty_hint": "No channels",
   "users.lists_title": "{name}'s Channels"

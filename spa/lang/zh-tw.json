@@ -361,6 +361,8 @@
   "upgrade_view.no_refund_hint": "* 高級會員計劃不予退款。",
   "upgrade_view.non_member_1": "普通會員",
   "upgrade_view.non_member_2": "還不是高級會員。",
+  "upgrade_view.order_canceled_or_refunded": "訂單已取消或已退款。",
+  "upgrade_view.order_error": "無法完成訂單，請再試一次。",
   "upgrade_view.priced_in_crypto.desc": "{name}接受加密貨幣付款。",
   "upgrade_view.priced_in_crypto.title": "以加密貨幣定價？",
   "upgrade_view.subtitle": "訂閱該頻道的高級會員，解鎖無限可能性！",
