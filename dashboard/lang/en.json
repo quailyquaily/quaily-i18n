@@ -1067,6 +1067,8 @@
   "reader.subscriptions_view.featured_subscriptions": "Featured Subscriptions",
   "reader.subscriptions_view.others": "Others",
   "reader.timeline.title": "Timeline",
+  "search_dialog.type_to_search_hint": "Type and enter to search",
+  "search_dialog.search_text.placeholder": "Search...",
   "sidebar.dashboard.comments": "Comments",
   "sidebar.dashboard.delivery": "Sending History",
   "sidebar.dashboard.incomes": "Incomes",

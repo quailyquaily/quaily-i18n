@@ -1065,6 +1065,8 @@
   "reader.subscriptions_view.others": "Altri",
   "reader.subscriptions_view.title": "Abbonamenti",
   "reader.timeline.title": "Cronologia",
+  "search_dialog.search_text.placeholder": "Cerca...",
+  "search_dialog.type_to_search_hint": "Digita e premi invio per cercare",
   "sidebar.dashboard.comments": "Commenti",
   "sidebar.dashboard.delivery": "Invio della cronologia",
   "sidebar.dashboard.incomes": "Redditi",
