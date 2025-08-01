@@ -667,6 +667,8 @@
   "list.payment_settings.external.stripe.test_hint": "Please test if the webhook is working by sending a test payment yourself",
   "list.payment_settings.merchant.info": "Merchant Information",
   "list.payment_settings.merchant.info.desc": "The public merchant information of this channel",
+  "list.payment_settings.stripe.title": "Stripe Payment",
+  "list.payment_settings.crypto.title": "Blockchain Payment",
   "list.payment_settings.fiat.enable": "Enable Payment",
   "list.payment_settings.fiat.enable.desc": "Enable payment to receive from your premium subscribers.",
   "list.payment_settings.fiat.guide": "Read the guide to set up payment",
