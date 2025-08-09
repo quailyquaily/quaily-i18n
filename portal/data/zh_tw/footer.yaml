@@ -23,12 +23,6 @@ social:
   - name: "github"
     title: "Quaily's Github"
     url: "https://github.com/QuailyQuaily"
-  - name: "alternativeto"
-    title: "Quaily at AlternativeTo"
-    url: "https://alternativeto.net/software/quail-ink/"
-  - name: "producthunt"
-    title: "Quaily at Product Hunt"
-    url: "https://www.producthunt.com/posts/quaily"
 
 meta:
   - title: "關於"
