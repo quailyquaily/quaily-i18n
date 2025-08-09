@@ -26,6 +26,7 @@
   "cashier.chain_pay.order_id": "ID de commande",
   "cashier.chain_pay.order_not_available": "La commande n'est pas disponible",
   "cashier.chain_pay.pay": "Payer",
+  "cashier.chain_pay.pay_in_crypto": "Payer en cryptomonnaie",
   "cashier.chain_pay.wallet_connected": "Portefeuille connecté, {addr}",
   "cashier.chain_pay.wallet_disconnected": "Portefeuille déconnecté",
   "cashier.chains.base": "Chaîne de base",

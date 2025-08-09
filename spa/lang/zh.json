@@ -26,6 +26,7 @@
   "cashier.chain_pay.order_id": "订单编号",
   "cashier.chain_pay.order_not_available": "订单不可用",
   "cashier.chain_pay.pay": "支付",
+  "cashier.chain_pay.pay_in_crypto": "使用加密货币支付",
   "cashier.chain_pay.wallet_connected": "钱包已连接，{addr}",
   "cashier.chain_pay.wallet_disconnected": "钱包未连接",
   "cashier.chains.base": "Base 链",

@@ -26,6 +26,7 @@
   "cashier.chain_pay.order_id": "注文ID",
   "cashier.chain_pay.order_not_available": "注文は利用できません。",
   "cashier.chain_pay.pay": "支払う",
+  "cashier.chain_pay.pay_in_crypto": "仮想通貨でお支払い",
   "cashier.chain_pay.wallet_connected": "ウォレットが接続されました、{addr}",
   "cashier.chain_pay.wallet_disconnected": "ウォレットが切断されました。",
   "cashier.chains.base": "Base Chain",

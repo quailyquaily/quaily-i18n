@@ -28,6 +28,7 @@
   "cashier.chain_pay.wallet_connected": "Wallet connected, {addr}",
   "cashier.chain_pay.wallet_disconnected": "Wallet disconnected",
   "cashier.chain_pay.network": "Network",
+  "cashier.chain_pay.pay_in_crypto": "Pay in cryptocurrency",
   "cashier.chains.base": "Base Chain",
   "cashier.chains.base.short": "Base",
   "cashier.chains.bsc": "Binance Smart Chain",
