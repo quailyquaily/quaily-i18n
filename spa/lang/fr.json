@@ -35,6 +35,8 @@
   "cashier.chains.bsc.short": "BSC",
   "cashier.chains.eth": "Ethereum",
   "cashier.chains.eth.short": "Ethereum",
+  "cashier.chains.solana": "Solana",
+  "cashier.chains.solana.short": "Solana",
   "cashier.chains.test": "Sepolia Testnet",
   "cashier.chains.test.short": "Sepolia",
   "cashier.pay": "Payer",

@@ -35,6 +35,8 @@
   "cashier.chains.bsc.short": "BSC",
   "cashier.chains.eth": "以太坊主網",
   "cashier.chains.eth.short": "以太坊",
+  "cashier.chains.solana": "Solana",
+  "cashier.chains.solana.short": "Solana",
   "cashier.chains.test": "Sepolia 測試網",
   "cashier.chains.test.short": "Sepolia",
   "cashier.pay": "支付",

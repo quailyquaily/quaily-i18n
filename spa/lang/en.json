@@ -37,6 +37,8 @@
   "cashier.chains.eth.short": "Ethereum",
   "cashier.chains.test": "Sepolia Testnet",
   "cashier.chains.test.short": "Sepolia",
+  "cashier.chains.solana": "Solana",
+  "cashier.chains.solana.short": "Solana",
   "cashier.pay": "Pay",
   "cashier.payment_methods": "Payment methods",
   "cashier.payment_methods.disabled": "Not Available",
