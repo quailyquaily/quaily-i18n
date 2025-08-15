@@ -818,7 +818,7 @@
   "payout_view.crypto.interaction_dialog.desc": "Veuillez utiliser votre portefeuille pour compléter l'interaction.",
   "payout_view.crypto.interaction_dialog.title": "Interaction du portefeuille",
   "payout_view.crypto.payee_address.placeholder": "L'adresse du portefeuille",
-  "payout_view.crypto.register_nets": "Inscrivez-vous sur les blockchains",
+  "payout_view.crypto.register_nets": "réseaux EVM",
   "payout_view.invitation.hint": "Pas de compte Wise ? Appuyez ici pour en créer un et obtenir un bonus.",
   "payout_view.not_eligible.hint": "Vous n'êtes pas éligible à la mise en place d'un paiement. Veuillez attendre 7 jours après votre première publication.",
   "payout_view.paypal.account": "Compte Paypal",

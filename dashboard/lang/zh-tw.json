@@ -822,7 +822,7 @@
   "payout_view.crypto.interaction_dialog.desc": "請使用錢包完成綁定",
   "payout_view.crypto.interaction_dialog.title": "錢包綁定",
   "payout_view.crypto.payee_address.placeholder": "錢包地址",
-  "payout_view.crypto.register_nets": "在區塊鏈上註冊",
+  "payout_view.crypto.register_nets": "EVM 網絡",
   "payout_view.invitation.hint": "沒有Wise帳戶？點擊此處註冊一個新帳戶並獲得獎金。",
   "payout_view.not_eligible.hint": "你尚不符合設置支付的資格。請在首次發佈文章後等待7天。",
   "payout_view.paypal.account": "PayPal 帳戶",

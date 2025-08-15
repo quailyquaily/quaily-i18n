@@ -822,7 +822,7 @@
   "payout_view.crypto.interaction_dialog.desc": "お支払いにはウォレットをご利用ください",
   "payout_view.crypto.interaction_dialog.title": "ウォレットの相互作用",
   "payout_view.crypto.payee_address.placeholder": "ウォレットアドレス",
-  "payout_view.crypto.register_nets": "ブロックチェーンに登録してください。",
+  "payout_view.crypto.register_nets": "EVMネットワーク",
   "payout_view.invitation.hint": "賢明なアカウントはありませんか？新しいアカウントを登録してボーナスを受け取るには、ここをタップしてください。",
   "payout_view.not_eligible.hint": "支払い設定を行う資格がありません。最初の記事から7日間お待ちください。",
   "payout_view.paypal.account": "ペイパルアカウント",

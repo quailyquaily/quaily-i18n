@@ -843,7 +843,7 @@
   "payout_view.crypto.input_addr_dialog.desc": "Please make sure the address is correct.",
   "payout_view.crypto.input_addr_dialog.title": "Input your wallet address here",
   "payout_view.crypto.payee_address.placeholder": "The wallet address",
-  "payout_view.crypto.register_nets": "Register at Blockchains",
+  "payout_view.crypto.register_nets": "EVM networks",
   "payout_view.crypto.hint": "Quaily supports EVM compatible and Solana wallet",
   "payout_view.invitation.hint": "No Wise account? Tap here to register a new one and get a bonus.",
   "payout_view.not_eligible.hint": "You're not eligible to setup payout. Please wait for 7 days after your first publish post.",

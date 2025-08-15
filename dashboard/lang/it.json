@@ -818,7 +818,7 @@
   "payout_view.crypto.interaction_dialog.desc": "Si prega di utilizzare il portafoglio per completare l'interazione.",
   "payout_view.crypto.interaction_dialog.title": "Interazione con il portafoglio",
   "payout_view.crypto.payee_address.placeholder": "Indirizzo del wallet",
-  "payout_view.crypto.register_nets": "Registrati su Blockchains.",
+  "payout_view.crypto.register_nets": "Reti EVM",
   "payout_view.invitation.hint": "Nessun account Wise? Tocca qui per registrare un nuovo account e ottenere un bonus.",
   "payout_view.not_eligible.hint": "Non sei idoneo per impostare il pagamento. Si prega di attendere 7 giorni dopo il primo post pubblicato.",
   "payout_view.paypal.account": "Account Paypal",

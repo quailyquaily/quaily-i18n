@@ -823,7 +823,7 @@
   "payout_view.crypto.interaction_dialog.desc": "请使用钱包完成交互",
   "payout_view.crypto.interaction_dialog.title": "钱包互动",
   "payout_view.crypto.payee_address.placeholder": "钱包地址",
-  "payout_view.crypto.register_nets": "在区块链上注册",
+  "payout_view.crypto.register_nets": "EVM网络",
   "payout_view.invitation.hint": "没有 Wise 账户？点击这里注册一个新账户并获得奖励。",
   "payout_view.not_eligible.hint": "你无法设置支付。请在首次发布文章后等待7天。",
   "payout_view.paypal.account": "贝宝账户",
