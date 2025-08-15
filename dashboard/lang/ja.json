@@ -572,6 +572,7 @@
   "list.payment_settings.crypto.payee_address": "受取人アドレス",
   "list.payment_settings.crypto.payee_address.change_hint": "有効なETHアドレスを提供してください。アドレスを表示し、資産を管理するには\u003ca href=\"https://bridge.mvm.app\" target=\"_blank\"\u003eMVM Bridge\u003c/a\u003eにアクセスしてください。",
   "list.payment_settings.crypto.payee_address_dialog.title": "受取人アドレスを更新する。",
+  "list.payment_settings.crypto.price_value_error_hint": "0.1ドルを超える額にしてください",
   "list.payment_settings.crypto.price_value_hint": "≈ ${value}",
   "list.payment_settings.crypto.quarterly_price": "四半期プランの価格",
   "list.payment_settings.crypto.settlement_asset": "決済資産",

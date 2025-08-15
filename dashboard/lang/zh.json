@@ -572,6 +572,7 @@
   "list.payment_settings.crypto.payee_address": "收款人地址",
   "list.payment_settings.crypto.payee_address.change_hint": "请提供有效的ETH地址。你可以连接钱包到 \u003ca href=\"https://bridge.mvm.app\" target=\"_blank\"\u003eMVM Bridge\u003c/a\u003e 查看地址，并管理你的资产。",
   "list.payment_settings.crypto.payee_address_dialog.title": "更新收款人地址",
+  "list.payment_settings.crypto.price_value_error_hint": "金额应大于 $0.1",
   "list.payment_settings.crypto.price_value_hint": "≈ ${value}",
   "list.payment_settings.crypto.quarterly_price": "季度计划价格",
   "list.payment_settings.crypto.settlement_asset": "货币",

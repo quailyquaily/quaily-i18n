@@ -617,6 +617,7 @@
   "list.payment_settings.crypto.payee_address": "Payee Address",
   "list.payment_settings.crypto.payee_address.change_hint": "Please provide a valid ETH address. You can connect to \u003ca href=\"https://bridge.mvm.app\" target=\"_blank\"\u003eMVM Bridge\u003c/a\u003e to view the address and manage your assets.",
   "list.payment_settings.crypto.price_value_hint": "≈ ${value}.",
+  "list.payment_settings.crypto.price_value_error_hint": "should be more than $0.1",
   "list.payment_settings.crypto.quarterly_price": "Quarter Plan Price",
   "list.payment_settings.crypto.settlement_asset": "Settlement Asset",
   "list.payment_settings.crypto.view_at_explorer": "View at Explorer",

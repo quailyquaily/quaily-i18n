@@ -571,6 +571,7 @@
   "list.payment_settings.crypto.not_eligible.setup": "Impostazioni",
   "list.payment_settings.crypto.payee_address": "Indirizzo del beneficiario",
   "list.payment_settings.crypto.payee_address.change_hint": "Si prega di fornire un indirizzo ETH valido. Puoi connetterti a \u003ca href=\"https://bridge.mvm.app\" target=\"_blank\"\u003eMVM Bridge\u003c/a\u003e per visualizzare l'indirizzo e gestire i tuoi asset.",
+  "list.payment_settings.crypto.price_value_error_hint": "deve essere maggiore di $0.1",
   "list.payment_settings.crypto.price_value_hint": "≈ ${valore}.",
   "list.payment_settings.crypto.quarterly_price": "Prezzo del piano trimestrale",
   "list.payment_settings.crypto.settlement_asset": "Asset di insediamento",
