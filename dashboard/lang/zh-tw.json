@@ -1104,6 +1104,7 @@
   "reader.timeline.title": "時間軸",
   "search_dialog.search_text.placeholder": "搜尋...",
   "search_dialog.type_to_search_hint": "輸入文字並按下 Enter 以搜尋",
+  "sidebar.dashboard.analytics": "分析",
   "sidebar.dashboard.comments": "評論",
   "sidebar.dashboard.delivery": "推送歷史",
   "sidebar.dashboard.explore": "探索",

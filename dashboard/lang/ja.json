@@ -1104,6 +1104,7 @@
   "reader.timeline.title": "タイムライン",
   "search_dialog.search_text.placeholder": "検索…",
   "search_dialog.type_to_search_hint": "文字を入力してEnterキーを押すと検索できます",
+  "sidebar.dashboard.analytics": "分析",
   "sidebar.dashboard.comments": "コメント",
   "sidebar.dashboard.delivery": "配信履歴",
   "sidebar.dashboard.explore": "探索",
