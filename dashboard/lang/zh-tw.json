@@ -1025,6 +1025,7 @@
   "post.publish_result_dialog.title": "文章即將發佈。",
   "post.publish_result_dialog.title.progress": "你的文章正在發佈中。",
   "post.publish_result_dialog.visit": "查看文章",
+  "post.published_hint_datetime": "發布於：{ datetime }",
   "post.slug": "別名（可選）",
   "post.slug.expand_btn.title": "切換",
   "post.slug.guess_action_title": "AI 猜測 Slug",

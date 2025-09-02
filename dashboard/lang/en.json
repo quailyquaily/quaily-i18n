@@ -1015,6 +1015,7 @@
   "post.crosspublish_dialog.result_status.2": "Done",
   "post.crosspublish_dialog.result_status.3": "Failed",
   "post.crosspublish_dialog.result_status.4": "Duplicated",
+  "post.published_hint_datetime": "Published: { datetime }",
   "post.slug": "Slug(optional)",
   "post.slug.guess_action_title": "Guess Post Slug by AI",
   "post.slug.placeholder": "<post_slug>",

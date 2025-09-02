@@ -1018,6 +1018,7 @@
   "post.publish_result_dialog.title": "L'article a été publié",
   "post.publish_result_dialog.title.progress": "Votre publication est en cours de mise en ligne",
   "post.publish_result_dialog.visit": "Voir le post",
+  "post.published_hint_datetime": "Publié : { datetime }",
   "post.slug": "Slug (facultatif)",
   "post.slug.expand_btn.title": "Basculer l'entrée du slug",
   "post.slug.guess_action_title": "Deviner le slug du post avec l’IA",

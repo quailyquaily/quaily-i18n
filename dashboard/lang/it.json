@@ -1018,6 +1018,7 @@
   "post.publish_result_dialog.title": "Il post è stato pubblicato.",
   "post.publish_result_dialog.title.progress": "Il tuo post sta per essere pubblicato.",
   "post.publish_result_dialog.visit": "Visualizza post",
+  "post.published_hint_datetime": "Pubblicato: { datetime }",
   "post.slug": "Slug (opzionale)",
   "post.slug.expand_btn.title": "Attiva l'input dello slug",
   "post.slug.guess_action_title": "Indovina il post slug tramite l'IA.",

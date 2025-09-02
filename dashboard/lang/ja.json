@@ -1025,6 +1025,7 @@
   "post.publish_result_dialog.title": "記事は公開予定です。",
   "post.publish_result_dialog.title.progress": "あなたの記事が公開されています。",
   "post.publish_result_dialog.visit": "記事を表示",
+  "post.published_hint_datetime": "公開: { datetime }",
   "post.slug": "記事スラッグ（任意）",
   "post.slug.expand_btn.title": "切り替え",
   "post.slug.guess_action_title": "AIで記事スラッグを予測",
