@@ -265,6 +265,7 @@
   "editor.toolbar.btn_toggle_ul": "切換無序列表",
   "editor.toolbar.insert_image_dialog.draw_image_unsplash": "從 Unsplash 選擇",
   "editor.toolbar.insert_image_dialog.text": "從電腦上传圖片或從 Unsplash 選擇一張",
+  "editor.toolbar.insert_image_dialog.text_recent": "或者選擇最近的圖片",
   "editor.toolbar.insert_image_dialog.title": "插入圖片",
   "editor.toolbar.insert_image_dialog.upload_image": "上傳圖片",
   "editor.toolbar.paywall_hint_dialog.next": "繼續",

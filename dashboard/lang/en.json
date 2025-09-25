@@ -290,6 +290,7 @@
   "editor.toolbar.paywall_hint_dialog.next": "Continue",
   "editor.toolbar.insert_image_dialog.title": "Insert Image",
   "editor.toolbar.insert_image_dialog.text": "Insert an image from your computer or pick one from Unsplash",
+  "editor.toolbar.insert_image_dialog.text_recent": "Or pick a recent image",
   "editor.toolbar.insert_image_dialog.upload_image": "Upload Image",
   "editor.toolbar.insert_image_dialog.draw_image_unsplash": "Pick from Unsplash",
   "editor.content.placeholder": "Type content here ...",

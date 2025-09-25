@@ -265,6 +265,7 @@
   "editor.toolbar.btn_toggle_ul": "Basculer le canal non ordonné",
   "editor.toolbar.insert_image_dialog.draw_image_unsplash": "Choisir sur Unsplash",
   "editor.toolbar.insert_image_dialog.text": "Insérer une image depuis votre ordinateur ou en choisir une sur Unsplash",
+  "editor.toolbar.insert_image_dialog.text_recent": "Ou choisissez une image récente",
   "editor.toolbar.insert_image_dialog.title": "Insérer une image",
   "editor.toolbar.insert_image_dialog.upload_image": "Télécharger l'image",
   "editor.toolbar.paywall_hint_dialog.next": "Continuer",

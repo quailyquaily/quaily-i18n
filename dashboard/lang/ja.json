@@ -265,6 +265,7 @@
   "editor.toolbar.btn_toggle_ul": "トグルされた順不同チャンネル",
   "editor.toolbar.insert_image_dialog.draw_image_unsplash": "Unsplashから選択",
   "editor.toolbar.insert_image_dialog.text": "コンピュータから画像を挿入するか、Unsplashから選んでください",
+  "editor.toolbar.insert_image_dialog.text_recent": "あるいは、最近の画像を選んでください",
   "editor.toolbar.insert_image_dialog.title": "画像を挿入",
   "editor.toolbar.insert_image_dialog.upload_image": "画像をアップロード",
   "editor.toolbar.paywall_hint_dialog.next": "続ける",

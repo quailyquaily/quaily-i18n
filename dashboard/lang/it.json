@@ -265,6 +265,7 @@
   "editor.toolbar.btn_toggle_ul": "Attiva/disattiva canale non ordinato.",
   "editor.toolbar.insert_image_dialog.draw_image_unsplash": "Scegli da Unsplash",
   "editor.toolbar.insert_image_dialog.text": "Inserisci un'immagine dal tuo computer o scelgine una da Unsplash",
+  "editor.toolbar.insert_image_dialog.text_recent": "Oppure scegli un'immagine recente",
   "editor.toolbar.insert_image_dialog.title": "Inserisci Immagine",
   "editor.toolbar.insert_image_dialog.upload_image": "Carica Immagine",
   "editor.toolbar.paywall_hint_dialog.next": "Continua",

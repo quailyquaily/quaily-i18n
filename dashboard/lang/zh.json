@@ -265,6 +265,7 @@
   "editor.toolbar.btn_toggle_ul": "切换无序频道",
   "editor.toolbar.insert_image_dialog.draw_image_unsplash": "从 Unsplash 选择",
   "editor.toolbar.insert_image_dialog.text": "从本地上传图片或从 Unsplash 选择一张",
+  "editor.toolbar.insert_image_dialog.text_recent": "或者选择最近的图片",
   "editor.toolbar.insert_image_dialog.title": "插入图片",
   "editor.toolbar.insert_image_dialog.upload_image": "上传图片",
   "editor.toolbar.paywall_hint_dialog.next": "继续",
