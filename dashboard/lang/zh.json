@@ -556,6 +556,7 @@
   "list.domain_settings.sending_domain.address.placeholder": "自定义发送地址",
   "list.domain_settings.sending_domain.enable": "自定义发送域名",
   "list.domain_settings.sending_domain.enable.desc": "使用自有域名发送邮件。",
+  "list.domain_settings.sending_domain.guide": "此功能仅面向企业用户。请点击此处联系我们。",
   "list.domain_settings.sitemap_url": "站点地图 URL",
   "list.domain_settings.sitemap_url.hint": "可以复制并提交此 URL 给搜索引擎。",
   "list.email_settings": "邮件设置",

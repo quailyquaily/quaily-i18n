@@ -556,6 +556,7 @@
   "list.domain_settings.sending_domain.address.placeholder": "カスタム送信アドレス",
   "list.domain_settings.sending_domain.enable": "独自の送信ドメイン",
   "list.domain_settings.sending_domain.enable.desc": "ご自身のドメインアドレスを使ってメールを送信できます。",
+  "list.domain_settings.sending_domain.guide": "この機能はエンタープライズユーザー専用となっております。お問い合わせは、こちらをタップしてください。",
   "list.domain_settings.sitemap_url": "サイトマップURL",
   "list.domain_settings.sitemap_url.hint": "このURLをコピーして検索エンジンに提出できます。",
   "list.email_settings": "メールの設定",
