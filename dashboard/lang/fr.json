@@ -556,7 +556,6 @@
   "list.domain_settings.sending_domain.address.placeholder": "Adresse d'envoi personnalisée",
   "list.domain_settings.sending_domain.enable": "Domaine d'envoi personnalisé",
   "list.domain_settings.sending_domain.enable.desc": "Utilisez votre propre adresse de domaine pour envoyer des e-mails.",
-  "list.domain_settings.sending_domain.guide": "Cette fonctionnalité est réservée aux invités. Veuillez appuyer ici pour nous contacter.",
   "list.domain_settings.sitemap_url": "URL du plan du site",
   "list.domain_settings.sitemap_url.hint": "Vous pouvez copier et soumettre cette URL aux moteurs de recherche.",
   "list.email_settings": "Paramètres de messagerie",

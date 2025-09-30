@@ -556,7 +556,6 @@
   "list.domain_settings.sending_domain.address.placeholder": "自訂寄件位址",
   "list.domain_settings.sending_domain.enable": "自訂發送網域",
   "list.domain_settings.sending_domain.enable.desc": "使用自己的網域地址發送電子郵件。",
-  "list.domain_settings.sending_domain.guide": "此功能僅限邀請使用，請點此聯絡我們。",
   "list.domain_settings.sitemap_url": "網站地圖 URL",
   "list.domain_settings.sitemap_url.hint": "可以複製並提交此 URL 給搜索引擎。",
   "list.email_settings": "郵件設置",

@@ -597,7 +597,7 @@
   "list.domain_settings.sending_domain.enable": "Custom Sending Domain",
   "list.domain_settings.sending_domain.enable.desc": "Use your own domain address to send emails.",
   "list.domain_settings.sending_domain.address": "Custom Sending Address",
-  "list.domain_settings.sending_domain.guide": "This feature is invited only, please tap here to contact us.",
+  "list.domain_settings.sending_domain.guide": "This feature is only available for enterprise users. Please tap here to contact us.",
   "list.domain_settings.sending_domain.address.placeholder": "Custom Sending Address",
   "list.email_settings": "Email Settings",
   "list.email_settings.deny_list": "Email Provider Deny Channel",
