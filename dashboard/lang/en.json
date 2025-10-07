@@ -378,7 +378,7 @@
   "income_list.detail.referrals": "Referrals",
   "income_list.detail.vat": "VAT/sales tax",
   "income_list.empty_hint": "No record yet",
-  "income_list.income_distribution.hint": "The non-cryptocurrency income will be distributed to your account on the 1st week of next month.",
+  "income_list.income_distribution.hint": "The non-cryptocurrency income more than 2000 Japanese Yen will be distributed to your account on the 1st week of next month.",
   "income_list.period": "Period",
   "income_list.status.init": "",
   "income_list.status.paid": "Paid",

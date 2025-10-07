@@ -336,7 +336,7 @@
   "income_list.detail.referrals": "推荐",
   "income_list.detail.vat": "增值税/销售税",
   "income_list.empty_hint": "还没有记录",
-  "income_list.income_distribution.hint": "非加密货币收入将在下个月的第一周分配到你的账户中。",
+  "income_list.income_distribution.hint": "非加密货币收入，若大于 2000 日元，将在下个月的第一周分配到你的账户中。",
   "income_list.period": "时期",
   "income_list.status.paid": "付费",
   "income_list.status.pending": "待定",
