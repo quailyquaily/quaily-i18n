@@ -90,6 +90,7 @@ features_grid:
       link: "https://quaily.com/quail-zh/p/writing-is-better-together-introducing-co-authors-on-quaily"
     - title: "Crypto友好"
       subtitle: "支持加密货币支付"
+      link: "https://docs.quaily.com/zh/writer/premium.html#%E5%9F%BA%E4%BA%8E%E5%8C%BA%E5%9D%97%E9%93%BE%E7%9A%84%E6%94%AF%E4%BB%98"
     - title: "CLI 工具"
       subtitle: "使用CLI自动化发布"
       link: "https://quaily.com/quail-zh/p/introducing-quail-cli-simplifying-your-workflow"
@@ -165,4 +166,3 @@ badges:
 media:
   title: "媒体报道"
   subtitle: "Quaily 的旅程记录"
-

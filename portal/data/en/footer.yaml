@@ -42,6 +42,9 @@ meta:
       - label: "Alternatives"
         title: "Alternatives"
         url: "https://quaily.com/blog/p/alternatives"
+      - label: "Climate"
+        title: "Committing Quaily's revenue to carbon removal"
+        url: "https://climate.stripe.com/srjvNf"
   - title: "Misc"
     items:
       - label: "Tools"

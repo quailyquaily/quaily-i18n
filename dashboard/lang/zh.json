@@ -147,7 +147,7 @@
   "dashboard.packs_view.desc": "你把文章收集成文集，读者会把它当作一本书来阅读。",
   "dashboard.packs_view.title": "文集",
   "dashboard.paid_posts_view.title": "会员",
-  "dashboard.payout_items_view.title": "支付历史",
+  "dashboard.payout_items_view.title": "出款历史",
   "dashboard.payout_view.crypto.title": "加密货币钱包",
   "dashboard.payout_view.paypal.title": "贝宝",
   "dashboard.payout_view.stripe.title": "Stripe",

@@ -91,6 +91,7 @@ features_grid:
       link: "https://quaily.com/quaily-ja/p/writing-is-better-together-introducing-co-authors-on-quaily"
     - title: "暗号通貨"
       subtitle: "暗号通貨での支払いを受け入れます。"
+      link: "https://docs.quaily.com/writer/premium.html#blockchain-based-payment"
     - title: "CLI"
       subtitle: "CLIで投稿のワークフローを自動化します。"
       link: "https://quaily.com/quaily-ja/p/introducing-quail-cli-simplifying-your-workflow"

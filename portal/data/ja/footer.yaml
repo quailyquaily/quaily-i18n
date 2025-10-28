@@ -42,6 +42,9 @@ meta:
       - label: "Quaily 代替"
         title: "Quaily 代替"
         url: "https://quaily.com/quaily-ja/p/alternatives"
+      - label: "Climate"
+        title: "Committing Quaily's revenue to carbon removal"
+        url: "https://climate.stripe.com/srjvNf"
   - title: "その他"
     items:
       - label: "Tools"

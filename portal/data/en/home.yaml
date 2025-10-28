@@ -90,6 +90,7 @@ features_grid:
       link: "https://quaily.com/blog/p/writing-is-better-together-introducing-co-authors-on-quaily"
     - title: "Crypto Friendly"
       subtitle: "Accept crypto payments from your followers."
+      link: "https://docs.quaily.com/writer/premium.html#blockchain-based-payment"
     - title: "CLI Publish"
       subtitle: "Automate your publishing workflow with CLI."
       link: "https://quaily.com/blog/p/introducing-quail-cli-streamline-your-newsletter-workflow"
