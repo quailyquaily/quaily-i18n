@@ -508,6 +508,8 @@
   "list.content_coutput_settings": "Feed 設定",
   "list.content_coutput_settings.feed_full_content_enabled": "完整內容到 Feed",
   "list.content_coutput_settings.feed_full_content_enabled.desc": "Feed 中將包含文章的公開內容",
+  "list.content_coutput_settings.post_markdown_enabled": "Markdown 輸出",
+  "list.content_coutput_settings.post_markdown_enabled.desc": "已發佈文章的 Markdown 端點（在文章 URL 之後附加 `.md`）",
   "list.cooperator_settings": "聯合作者設置",
   "list.cooperator_settings.add": "添加",
   "list.cooperator_settings.hint": "合作者可以撰寫文章",

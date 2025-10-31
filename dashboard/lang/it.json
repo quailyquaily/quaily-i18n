@@ -508,6 +508,8 @@
   "list.content_coutput_settings": "Impostazioni Feed",
   "list.content_coutput_settings.feed_full_content_enabled": "Feed a Contenuto Completo",
   "list.content_coutput_settings.feed_full_content_enabled.desc": "Il contenuto pubblico verrà incluso nel feed",
+  "list.content_coutput_settings.post_markdown_enabled": "Output Markdown",
+  "list.content_coutput_settings.post_markdown_enabled.desc": "Endpoint Markdown (aggiungendo `.md` all'URL del post) per i post pubblicati",
   "list.cooperator_settings": "Impostazioni del collaboratore",
   "list.cooperator_settings.add": "Aggiungi",
   "list.cooperator_settings.hint": "I collaboratori possono scrivere post",

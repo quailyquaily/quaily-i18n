@@ -508,6 +508,8 @@
   "list.content_coutput_settings": "Paramètres du flux",
   "list.content_coutput_settings.feed_full_content_enabled": "Flux complet de contenu",
   "list.content_coutput_settings.feed_full_content_enabled.desc": "Le contenu public sera inclus dans le flux",
+  "list.content_coutput_settings.post_markdown_enabled": "Sortie Markdown",
+  "list.content_coutput_settings.post_markdown_enabled.desc": "Points de terminaison Markdown (en ajoutant `.md` à l'URL de l'article) pour les articles publiés",
   "list.cooperator_settings": "Paramètres du coopérateur",
   "list.cooperator_settings.add": "Ajouter",
   "list.cooperator_settings.hint": "Les collaborateurs peuvent rédiger des articles",

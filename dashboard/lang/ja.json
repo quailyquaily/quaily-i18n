@@ -508,6 +508,8 @@
   "list.content_coutput_settings": "フィード設定",
   "list.content_coutput_settings.feed_full_content_enabled": "全文表示フィード",
   "list.content_coutput_settings.feed_full_content_enabled.desc": "フィードには公開コンテンツが含まれます",
+  "list.content_coutput_settings.post_markdown_enabled": "Markdown出力",
+  "list.content_coutput_settings.post_markdown_enabled.desc": "公開された記事のURLに「.md」を追加するMarkdownエンドポイント",
   "list.cooperator_settings": "協力者の設定",
   "list.cooperator_settings.add": "追加",
   "list.cooperator_settings.hint": "協力者は記事を書くことができます",

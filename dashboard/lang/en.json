@@ -541,6 +541,8 @@
   "list.content_coutput_settings": "Feed Settings",
   "list.content_coutput_settings.feed_full_content_enabled": "Full Content Feed",
   "list.content_coutput_settings.feed_full_content_enabled.desc": "Public content will be included in the feed",
+  "list.content_coutput_settings.post_markdown_enabled": "Markdown Output",
+  "list.content_coutput_settings.post_markdown_enabled.desc": "Markdown endpoints (adding `.md` to the post URL) for published posts",
   "list.comment_settings": "Comment Settings",
   "list.comment_settings.comment_enabled": "Enable Comments",
   "list.comment_settings.comment_enabled.desc": "Enable comments for this post by default. Readers can leave comments at the bottom of the post.",
